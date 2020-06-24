@@ -1,0 +1,2539 @@
+Date,Country,Cumulative,deaths,recovered
+3/17/2003,Germany,1,0,0
+3/17/2003,Canada,8,2,0
+3/17/2003,Singapore,20,0,0
+3/17/2003,"Hong Kong SAR, China",95,1,0
+3/17/2003,Switzerland,2,0,0
+3/17/2003,Thailand,1,0,0
+3/17/2003,Viet Nam,40,1,0
+3/18/2003,Germany,2,0,0
+3/18/2003,Canada,8,2,0
+3/18/2003,China,0,0,0
+3/18/2003,Singapore,23,0,0
+3/18/2003,"Hong Kong SAR, China",123,1,0
+3/18/2003,"Taiwan, China",3,0,0
+3/18/2003,Thailand,1,0,0
+3/18/2003,Viet Nam,57,1,0
+3/18/2003,Slovenia,1,0,0
+3/18/2003,United Kingdom,1,0,0
+3/19/2003,Canada,8,2,0
+3/19/2003,China,0,0,0
+3/19/2003,Germany,1,0,0
+3/19/2003,"Hong Kong SAR, China",150,5,0
+3/19/2003,Singapore,31,0,0
+3/19/2003,Slovenia,1,0,0
+3/19/2003,Spain,1,0,0
+3/19/2003,"Taiwan, China",3,0,0
+3/19/2003,Thailand,1,0,0
+3/19/2003,United Kingdom,1,0,0
+3/19/2003,United States,11,0,0
+3/19/2003,Viet Nam,56,2,0
+3/20/2003,Canada,9,2,0
+3/20/2003,China,0,0,0
+3/20/2003,Germany,1,0,0
+3/20/2003,"Hong Kong SAR, China",173,6,0
+3/20/2003,Singapore,34,0,0
+3/20/2003,Slovenia,1,0,0
+3/20/2003,Spain,1,0,0
+3/20/2003,Switzerland,7,0,0
+3/20/2003,"Taiwan, China",4,0,0
+3/20/2003,Thailand,1,0,0
+3/20/2003,United Kingdom,2,0,0
+3/20/2003,United States,11,0,0
+3/20/2003,Viet Nam,62,2,0
+3/21/2003,Canada,9,2,0
+3/21/2003,China,0,0,0
+3/21/2003,Germany,1,0,0
+3/21/2003,"Hong Kong SAR, China",203,6,0
+3/21/2003,Italy,1,0,0
+3/21/2003,Republic of Ireland,1,0,0
+3/21/2003,Singapore,39,0,0
+3/21/2003,Slovenia,1,0,0
+3/21/2003,Spain,1,0,0
+3/21/2003,Switzerland,7,0,0
+3/21/2003,"Taiwan, China",6,0,0
+3/21/2003,Thailand,4,0,0
+3/21/2003,United Kingdom,2,0,0
+3/21/2003,United States,13,0,0
+3/21/2003,Viet Nam,62,2,0
+3/22/2003,Canada,9,2,0
+3/22/2003,China,0,0,0
+3/22/2003,Germany,2,0,0
+3/22/2003,"Hong Kong SAR, China",222,7,0
+3/22/2003,Italy,2,0,0
+3/22/2003,Republic of Ireland,1,0,0
+3/22/2003,Singapore,44,0,0
+3/22/2003,Slovenia,1,0,0
+3/22/2003,Spain,1,0,0
+3/22/2003,Switzerland,7,0,0
+3/22/2003,"Taiwan, China",6,0,0
+3/22/2003,Thailand,4,0,0
+3/22/2003,United Kingdom,2,0,0
+3/22/2003,United States,22,0,0
+3/22/2003,Viet Nam,63,2,0
+3/24/2003,Canada,11,3,0
+3/24/2003,China,0,0,0
+3/24/2003,France,1,0,0
+3/24/2003,Germany,4,0,0
+3/24/2003,"Hong Kong SAR, China",260,10,0
+3/24/2003,Italy,2,0,0
+3/24/2003,Republic of Ireland,1,0,0
+3/24/2003,Singapore,65,0,0
+3/24/2003,Spain,1,0,0
+3/24/2003,Switzerland,2,0,0
+3/24/2003,"Taiwan, China",6,0,0
+3/24/2003,Thailand,5,0,0
+3/24/2003,United Kingdom,3,0,0
+3/24/2003,United States,37,0,0
+3/24/2003,Viet Nam,58,4,0
+3/25/2003,Canada,11,3,0
+3/25/2003,China,0,0,0
+3/25/2003,France,1,0,0
+3/25/2003,Germany,4,0,0
+3/25/2003,"Hong Kong SAR, China",286,10,0
+3/25/2003,Italy,2,0,0
+3/25/2003,Republic of Ireland,1,0,0
+3/25/2003,Singapore,69,0,0
+3/25/2003,Switzerland,2,0,0
+3/25/2003,"Taiwan, China",6,0,0
+3/25/2003,Thailand,5,0,0
+3/25/2003,United Kingdom,3,0,0
+3/25/2003,United States,39,0,0
+3/25/2003,Viet Nam,58,4,0
+3/26/2003,Canada,19,3,0
+3/26/2003,China,792,31,0
+3/26/2003,"Hong Kong SAR, China",316,10,0
+3/26/2003,"Taiwan, China",6,0,0
+3/26/2003,France,1,0,0
+3/26/2003,Germany,4,0,0
+3/26/2003,Italy,3,0,0
+3/26/2003,Republic of Ireland,2,0,0
+3/26/2003,Singapore,74,1,0
+3/26/2003,Switzerland,2,0,0
+3/26/2003,Thailand,3,0,0
+3/26/2003,United Kingdom,3,0,0
+3/26/2003,United States,40,0,0
+3/26/2003,Viet Nam,58,4,0
+3/27/2003,Canada,28,3,0
+3/27/2003,China,806,34,0
+3/27/2003,"Hong Kong SAR, China",367,10,0
+3/27/2003,"Taiwan, China",6,0,0
+3/27/2003,France,1,0,0
+3/27/2003,Germany,4,0,0
+3/27/2003,Italy,2,0,0
+3/27/2003,Republic of Ireland,2,0,0
+3/27/2003,Romania,3,0,0
+3/27/2003,Singapore,78,2,0
+3/27/2003,Switzerland,2,0,0
+3/27/2003,Thailand,3,0,0
+3/27/2003,United Kingdom,3,0,0
+3/27/2003,United States,45,0,0
+3/27/2003,Viet Nam,58,4,0
+3/28/2003,Canada,29,3,0
+3/28/2003,China,806,34,0
+3/28/2003,"Hong Kong SAR, China",425,10,0
+3/28/2003,"Taiwan, China",10,0,0
+3/28/2003,France,1,0,0
+3/28/2003,Germany,4,0,0
+3/28/2003,Italy,2,0,0
+3/28/2003,Republic of Ireland,2,0,0
+3/28/2003,Romania,3,0,0
+3/28/2003,Singapore,86,2,0
+3/28/2003,Switzerland,2,0,0
+3/28/2003,Thailand,3,0,0
+3/28/2003,United Kingdom,3,0,0
+3/28/2003,United States,51,0,0
+3/28/2003,Viet Nam,58,4,0
+3/29/2003,Canada,37,3,0
+3/29/2003,China,806,34,0
+3/29/2003,"Hong Kong SAR, China",470,10,0
+3/29/2003,"Taiwan, China",10,0,0
+3/29/2003,France,1,0,0
+3/29/2003,Germany,4,0,0
+3/29/2003,Italy,2,0,0
+3/29/2003,Republic of Ireland,2,0,0
+3/29/2003,Romania,3,0,0
+3/29/2003,Singapore,89,2,0
+3/29/2003,Switzerland,3,0,0
+3/29/2003,Thailand,3,1,0
+3/29/2003,United Kingdom,3,0,0
+3/29/2003,United States,59,0,0
+3/29/2003,Viet Nam,58,4,0
+3/31/2003,Canada,44,4,0
+3/31/2003,China,806,34,0
+3/31/2003,"Hong Kong SAR, China",530,13,0
+3/31/2003,"Taiwan, China",10,0,0
+3/31/2003,France,1,0,0
+3/31/2003,Germany,5,0,0
+3/31/2003,Italy,2,0,0
+3/31/2003,Republic of Ireland,2,0,0
+3/31/2003,Romania,3,0,0
+3/31/2003,Singapore,91,2,0
+3/31/2003,Switzerland,3,0,0
+3/31/2003,Thailand,5,1,0
+3/31/2003,United Kingdom,3,0,0
+3/31/2003,United States,59,0,0
+3/31/2003,Viet Nam,58,4,0
+4/1/2003,Australia,1,0,0
+4/1/2003,Belgium,1,0,0
+4/1/2003,Canada,53,4,0
+4/1/2003,China,806,34,0
+4/1/2003,"Hong Kong SAR, China",685,16,0
+4/1/2003,"Taiwan, China",13,0,0
+4/1/2003,France,1,0,0
+4/1/2003,Germany,5,0,0
+4/1/2003,Italy,3,0,0
+4/1/2003,Republic of Ireland,2,0,0
+4/1/2003,Romania,3,0,0
+4/1/2003,Singapore,92,3,0
+4/1/2003,Switzerland,3,0,0
+4/1/2003,Thailand,6,1,0
+4/1/2003,United Kingdom,3,0,0
+4/1/2003,United States,69,0,0
+4/1/2003,Viet Nam,58,4,0
+4/2/2003,Australia,1,0,0
+4/2/2003,Belgium,1,0,0
+4/2/2003,Canada,58,6,0
+4/2/2003,China,1190,46,0
+4/2/2003,"Hong Kong SAR, China",708,16,0
+4/2/2003,"Taiwan, China",13,0,0
+4/2/2003,France,1,0,0
+4/2/2003,Germany,5,0,0
+4/2/2003,Italy,3,0,0
+4/2/2003,Republic of Ireland,2,0,0
+4/2/2003,Romania,3,0,0
+4/2/2003,Singapore,95,4,0
+4/2/2003,Spain,1,0,0
+4/2/2003,Switzerland,2,0,0
+4/2/2003,Thailand,7,2,0
+4/2/2003,United Kingdom,3,0,0
+4/2/2003,United States,72,0,0
+4/2/2003,Viet Nam,58,4,0
+4/3/2003,Australia,1,0,0
+4/3/2003,Belgium,1,0,0
+4/3/2003,Brazil,1,0,0
+4/3/2003,Canada,62,6,0
+4/3/2003,China,1190,46,0
+4/3/2003,"Hong Kong SAR, China",734,17,0
+4/3/2003,"Taiwan, China",14,0,0
+4/3/2003,France,3,0,0
+4/3/2003,Germany,5,0,0
+4/3/2003,Italy,3,0,0
+4/3/2003,Republic of Ireland,1,0,0
+4/3/2003,Romania,1,0,0
+4/3/2003,Singapore,98,4,0
+4/3/2003,Switzerland,2,0,0
+4/3/2003,Thailand,7,2,0
+4/3/2003,United Kingdom,3,0,0
+4/3/2003,United States,85,0,0
+4/3/2003,Viet Nam,59,4,0
+4/4/2003,Australia,1,0,0
+4/4/2003,Belgium,1,0,0
+4/4/2003,Brazil,1,0,0
+4/4/2003,Canada,69,7,0
+4/4/2003,China,1220,49,0
+4/4/2003,"Hong Kong SAR, China",761,17,0
+4/4/2003,"Taiwan, China",15,0,0
+4/4/2003,France,3,0,0
+4/4/2003,Germany,5,0,0
+4/4/2003,Italy,3,0,0
+4/4/2003,Republic of Ireland,1,0,0
+4/4/2003,Romania,1,0,0
+4/4/2003,Singapore,100,5,0
+4/4/2003,Spain,1,0,0
+4/4/2003,Switzerland,2,0,0
+4/4/2003,Thailand,7,2,0
+4/4/2003,United Kingdom,3,0,0
+4/4/2003,United States,100,0,0
+4/4/2003,Viet Nam,59,4,0
+4/5/2003,Australia,1,0,0
+4/5/2003,Belgium,1,0,0
+4/5/2003,Brazil,1,0,0
+4/5/2003,Canada,74,7,0
+4/5/2003,China,1220,49,0
+4/5/2003,"Hong Kong SAR, China",800,20,0
+4/5/2003,"Taiwan, China",17,0,0
+4/5/2003,France,3,0,0
+4/5/2003,Germany,5,0,0
+4/5/2003,Italy,3,0,0
+4/5/2003,Malaysia,1,1,0
+4/5/2003,Republic of Ireland,1,0,0
+4/5/2003,Romania,1,0,0
+4/5/2003,Singapore,101,6,0
+4/5/2003,Spain,1,0,0
+4/5/2003,Switzerland,1,0,0
+4/5/2003,Thailand,7,2,0
+4/5/2003,United Kingdom,4,0,0
+4/5/2003,United States,115,0,0
+4/5/2003,Viet Nam,59,4,0
+4/7/2003,Australia,1,0,0
+4/7/2003,Brazil,1,0,0
+4/7/2003,Canada,90,9,0
+4/7/2003,China,1268,53,0
+4/7/2003,"Hong Kong SAR, China",883,23,0
+4/7/2003,"Taiwan, China",21,0,0
+4/7/2003,France,3,0,0
+4/7/2003,Germany,5,0,0
+4/7/2003,Italy,3,0,0
+4/7/2003,Malaysia,1,1,0
+4/7/2003,Republic of Ireland,1,0,0
+4/7/2003,Romania,1,0,0
+4/7/2003,Singapore,106,6,0
+4/7/2003,Spain,1,0,0
+4/7/2003,Switzerland,1,0,0
+4/7/2003,Thailand,7,2,0
+4/7/2003,United Kingdom,5,0,0
+4/7/2003,United States,141,0,0
+4/7/2003,Viet Nam,62,4,0
+4/8/2003,Australia,1,0,0
+4/8/2003,Brazil,1,0,0
+4/8/2003,Canada,91,10,0
+4/8/2003,China,1279,53,0
+4/8/2003,"Hong Kong SAR, China",928,25,0
+4/8/2003,"Taiwan, China",19,0,0
+4/8/2003,France,4,0,0
+4/8/2003,Germany,5,0,0
+4/8/2003,Italy,3,0,0
+4/8/2003,Malaysia,1,1,0
+4/8/2003,Republic of Ireland,1,0,0
+4/8/2003,Romania,1,0,0
+4/8/2003,Singapore,113,8,0
+4/8/2003,Spain,1,0,0
+4/8/2003,Switzerland,1,0,0
+4/8/2003,Thailand,7,2,0
+4/8/2003,United Kingdom,5,0,0
+4/8/2003,United States,148,0,0
+4/8/2003,Viet Nam,62,4,0
+4/9/2003,Brazil,1,0,0
+4/9/2003,Canada,94,10,0
+4/9/2003,China,1280,53,0
+4/9/2003,"Hong Kong SAR, China",970,27,0
+4/9/2003,"Taiwan, China",19,0,0
+4/9/2003,France,4,0,0
+4/9/2003,Germany,5,0,0
+4/9/2003,Italy,3,0,0
+4/9/2003,Malaysia,1,1,0
+4/9/2003,Republic of Ireland,1,0,0
+4/9/2003,Romania,1,0,0
+4/9/2003,Singapore,118,9,0
+4/9/2003,Spain,1,0,0
+4/9/2003,Switzerland,1,0,0
+4/9/2003,Thailand,7,2,0
+4/9/2003,United Kingdom,5,0,0
+4/9/2003,United States,149,0,0
+4/9/2003,Viet Nam,62,4,0
+4/10/2003,Brazil,2,0,0
+4/10/2003,Canada,97,10,22
+4/10/2003,China,1290,55,1025
+4/10/2003,"Hong Kong SAR, China",998,30,154
+4/10/2003,"Taiwan, China",19,0,5
+4/10/2003,France,4,0,0
+4/10/2003,Germany,6,0,2
+4/10/2003,Italy,3,0,1
+4/10/2003,Kuwait,1,0,0
+4/10/2003,Malaysia,3,1,0
+4/10/2003,Republic of Ireland,1,0,1
+4/10/2003,Romania,1,0,0
+4/10/2003,Singapore,126,9,75
+4/10/2003,Spain,1,0,0
+4/10/2003,Switzerland,1,0,1
+4/10/2003,Thailand,7,2,5
+4/10/2003,United Kingdom,5,0,3
+4/10/2003,United States,154,0,0
+4/10/2003,Viet Nam,62,4,43
+4/11/2003,Brazil,2,0,0
+4/11/2003,Canada,98,10,25
+4/11/2003,China,1309,58,1037
+4/11/2003,"Hong Kong SAR, China",1059,32,169
+4/11/2003,"Taiwan, China",21,0,6
+4/11/2003,France,5,0,0
+4/11/2003,Germany,6,0,4
+4/11/2003,Italy,3,0,2
+4/11/2003,Japan,4,0,0
+4/11/2003,Kuwait,1,0,0
+4/11/2003,Malaysia,4,1,0
+4/11/2003,Republic of Ireland,1,0,1
+4/11/2003,Romania,1,0,0
+4/11/2003,Singapore,133,9,77
+4/11/2003,South Africa,1,0,0
+4/11/2003,Spain,1,0,0
+4/11/2003,Switzerland,1,0,1
+4/11/2003,Thailand,7,2,5
+4/11/2003,United Kingdom,5,0,3
+4/11/2003,United States,166,0,0
+4/11/2003,Viet Nam,62,4,43
+4/12/2003,Brazil,2,0,0
+4/12/2003,Canada,101,10,26
+4/12/2003,China,1309,58,1037
+4/12/2003,"Hong Kong SAR, China",1108,35,215
+4/12/2003,"Taiwan, China",23,0,7
+4/12/2003,France,5,0,1
+4/12/2003,Germany,6,0,4
+4/12/2003,Italy,3,0,2
+4/12/2003,Japan,4,0,0
+4/12/2003,Kuwait,1,0,0
+4/12/2003,Malaysia,4,1,0
+4/12/2003,Republic of Ireland,1,0,1
+4/12/2003,Romania,1,0,0
+4/12/2003,Singapore,147,9,77
+4/12/2003,South Africa,1,0,0
+4/12/2003,Spain,1,0,0
+4/12/2003,Switzerland,1,0,1
+4/12/2003,Thailand,8,2,5
+4/12/2003,United Kingdom,6,0,3
+4/12/2003,United States,166,0,0
+4/12/2003,Viet Nam,62,4,46
+4/14/2003,Brazil,2,0,0
+4/14/2003,Canada,100,13,27
+4/14/2003,China,1418,64,1088
+4/14/2003,"Hong Kong SAR, China",1190,47,229
+4/14/2003,"Taiwan, China",23,0,7
+4/14/2003,France,5,0,1
+4/14/2003,Germany,6,0,4
+4/14/2003,Indonesia,1,0,0
+4/14/2003,Italy,3,0,2
+4/14/2003,Kuwait,1,0,0
+4/14/2003,Malaysia,4,1,0
+4/14/2003,Philippines,1,0,1
+4/14/2003,Republic of Ireland,1,0,1
+4/14/2003,Romania,1,0,0
+4/14/2003,Singapore,158,12,84
+4/14/2003,South Africa,1,0,0
+4/14/2003,Spain,1,0,0
+4/14/2003,Sweden,1,0,0
+4/14/2003,Switzerland,1,0,1
+4/14/2003,Thailand,8,2,5
+4/14/2003,United Kingdom,6,0,3
+4/14/2003,United States,174,0,0
+4/14/2003,Viet Nam,63,5,46
+4/15/2003,Brazil,2,0,0
+4/15/2003,Canada,100,13,27
+4/15/2003,China,1418,64,1088
+4/15/2003,"Hong Kong SAR, China",1232,56,243
+4/15/2003,"Taiwan, China",23,0,7
+4/15/2003,France,5,0,1
+4/15/2003,Germany,6,0,4
+4/15/2003,Indonesia,1,0,0
+4/15/2003,Italy,3,0,2
+4/15/2003,Japan,1,0,0
+4/15/2003,Kuwait,1,0,0
+4/15/2003,Malaysia,4,1,0
+4/15/2003,Philippines,1,0,1
+4/15/2003,Republic of Ireland,1,0,1
+4/15/2003,Romania,1,0,1
+4/15/2003,Singapore,162,13,85
+4/15/2003,South Africa,1,0,0
+4/15/2003,Spain,1,0,0
+4/15/2003,Sweden,1,0,0
+4/15/2003,Switzerland,1,0,1
+4/15/2003,Thailand,8,2,5
+4/15/2003,United Kingdom,6,0,3
+4/15/2003,United States,193,0,0
+4/15/2003,Viet Nam,63,5,46
+4/16/2003,Brazil,2,0,0
+4/16/2003,Canada,103,13,37
+4/16/2003,China,1432,64,1094
+4/16/2003,"Hong Kong SAR, China",1268,61,257
+4/16/2003,"Taiwan, China",27,0,10
+4/16/2003,France,5,0,1
+4/16/2003,Germany,6,0,4
+4/16/2003,Indonesia,1,0,0
+4/16/2003,Italy,3,0,2
+4/16/2003,Japan,1,0,0
+4/16/2003,Kuwait,1,0,0
+4/16/2003,Malaysia,5,1,0
+4/16/2003,Philippines,1,0,1
+4/16/2003,Republic of Ireland,1,0,1
+4/16/2003,Romania,1,0,1
+4/16/2003,Singapore,162,13,85
+4/16/2003,South Africa,1,0,0
+4/16/2003,Spain,1,0,0
+4/16/2003,Sweden,1,0,0
+4/16/2003,Switzerland,1,0,1
+4/16/2003,Thailand,8,2,5
+4/16/2003,United Kingdom,6,0,3
+4/16/2003,United States,193,0,0
+4/16/2003,Viet Nam,63,5,46
+4/17/2003,Australia,3,0,3
+4/17/2003,Brazil,2,0,0
+4/17/2003,Canada,126,12,46
+4/17/2003,China,1457,65,1107
+4/17/2003,"Hong Kong SAR, China",1297,65,272
+4/17/2003,"Taiwan, China",27,0,10
+4/17/2003,France,5,0,1
+4/17/2003,Germany,6,0,4
+4/17/2003,India,1,0,0
+4/17/2003,Indonesia,1,0,0
+4/17/2003,Italy,3,0,2
+4/17/2003,Japan,2,0,0
+4/17/2003,Kuwait,1,0,0
+4/17/2003,Malaysia,5,1,0
+4/17/2003,Mongolia,3,0,3
+4/17/2003,Philippines,1,0,1
+4/17/2003,Republic of Ireland,1,0,1
+4/17/2003,Romania,1,0,1
+4/17/2003,Singapore,167,15,91
+4/17/2003,South Africa,1,0,0
+4/17/2003,Spain,1,0,0
+4/17/2003,Sweden,1,0,0
+4/17/2003,Switzerland,1,0,1
+4/17/2003,Thailand,8,2,5
+4/17/2003,United Kingdom,6,0,3
+4/17/2003,United States,199,0,0
+4/17/2003,Viet Nam,63,5,46
+4/18/2003,Australia,3,0,3
+4/18/2003,Brazil,2,0,0
+4/18/2003,Canada,132,12,54
+4/18/2003,China,1512,65,1140
+4/18/2003,"Hong Kong SAR, China",1358,81,363
+4/18/2003,"Taiwan, China",29,0,17
+4/18/2003,France,5,0,1
+4/18/2003,Germany,6,0,4
+4/18/2003,India,1,0,1
+4/18/2003,Indonesia,1,0,0
+4/18/2003,Italy,3,0,2
+4/18/2003,Japan,4,0,0
+4/18/2003,Kuwait,1,0,0
+4/18/2003,Malaysia,5,1,0
+4/18/2003,Mongolia,3,0,3
+4/18/2003,Philippines,1,0,1
+4/18/2003,Republic of Ireland,1,0,1
+4/18/2003,Romania,1,0,1
+4/18/2003,Singapore,177,16,100
+4/18/2003,South Africa,1,0,0
+4/18/2003,Spain,1,0,0
+4/18/2003,Sweden,3,0,0
+4/18/2003,Switzerland,1,0,1
+4/18/2003,Thailand,7,2,6
+4/18/2003,United Kingdom,6,0,5
+4/18/2003,United States,220,0,0
+4/18/2003,Viet Nam,63,5,46
+4/19/2003,Australia,3,0,3
+4/19/2003,Brazil,2,0,0
+4/19/2003,Canada,132,12,54
+4/19/2003,China,1512,65,1140
+4/19/2003,"Hong Kong SAR, China",1358,81,363
+4/19/2003,"Taiwan, China",29,0,17
+4/19/2003,France,5,0,1
+4/19/2003,Germany,6,0,4
+4/19/2003,India,1,0,1
+4/19/2003,Indonesia,1,0,0
+4/19/2003,Italy,3,0,2
+4/19/2003,Japan,4,0,0
+4/19/2003,Kuwait,1,0,0
+4/19/2003,Malaysia,5,1,0
+4/19/2003,Mongolia,3,0,3
+4/19/2003,Philippines,1,0,1
+4/19/2003,Republic of Ireland,1,0,1
+4/19/2003,Romania,1,0,1
+4/19/2003,Singapore,177,16,100
+4/19/2003,South Africa,1,0,0
+4/19/2003,Spain,1,0,0
+4/19/2003,Sweden,3,0,0
+4/19/2003,Switzerland,1,0,1
+4/19/2003,Thailand,7,2,6
+4/19/2003,United Kingdom,6,0,5
+4/19/2003,United States,220,0,0
+4/19/2003,Viet Nam,63,5,46
+4/21/2003,Australia,3,0,3
+4/21/2003,Brazil,2,0,0
+4/21/2003,Canada,132,12,54
+4/21/2003,China,1959,86,1187
+4/21/2003,"Hong Kong SAR, China",1402,94,436
+4/21/2003,"Taiwan, China",29,0,17
+4/21/2003,France,5,0,1
+4/21/2003,Germany,6,0,4
+4/21/2003,India,1,0,1
+4/21/2003,Indonesia,1,0,0
+4/21/2003,Italy,3,0,2
+4/21/2003,Japan,5,0,0
+4/21/2003,Kuwait,1,0,1
+4/21/2003,Malaysia,6,1,0
+4/21/2003,Mongolia,3,0,3
+4/21/2003,Philippines,2,1,1
+4/21/2003,Republic of Ireland,1,0,1
+4/21/2003,Romania,1,0,1
+4/21/2003,Singapore,178,16,104
+4/21/2003,South Africa,1,0,0
+4/21/2003,Spain,1,0,0
+4/21/2003,Sweden,3,0,0
+4/21/2003,Switzerland,1,0,1
+4/21/2003,Thailand,7,2,5
+4/21/2003,United Kingdom,6,0,5
+4/21/2003,United States,39,0,0
+4/21/2003,Viet Nam,63,5,46
+4/22/2003,Australia,3,0,3
+4/22/2003,Brazil,2,0,0
+4/22/2003,Canada,139,13,65
+4/22/2003,China,2001,92,1201
+4/22/2003,"Hong Kong SAR, China",1434,99,461
+4/22/2003,"Taiwan, China",29,0,21
+4/22/2003,France,5,0,1
+4/22/2003,Germany,7,0,6
+4/22/2003,India,1,0,1
+4/22/2003,Indonesia,1,0,0
+4/22/2003,Italy,3,0,2
+4/22/2003,Japan,2,0,0
+4/22/2003,Kuwait,1,0,1
+4/22/2003,Malaysia,6,1,0
+4/22/2003,Mongolia,3,0,3
+4/22/2003,Philippines,2,1,1
+4/22/2003,Republic of Ireland,1,0,1
+4/22/2003,Romania,1,0,1
+4/22/2003,Singapore,186,16,110
+4/22/2003,South Africa,1,0,0
+4/22/2003,Spain,1,0,0
+4/22/2003,Sweden,3,0,0
+4/22/2003,Switzerland,1,0,1
+4/22/2003,Thailand,7,2,5
+4/22/2003,United Kingdom,6,0,5
+4/22/2003,United States,38,0,0
+4/22/2003,Viet Nam,63,5,46
+4/23/2003,Australia,4,0,3
+4/23/2003,Brazil,2,0,0
+4/23/2003,Canada,140,13,65
+4/23/2003,China,2305,106,1231
+4/23/2003,"Hong Kong SAR, China",1458,105,522
+4/23/2003,"Taiwan, China",37,0,21
+4/23/2003,France,5,0,1
+4/23/2003,Germany,7,0,6
+4/23/2003,India,1,0,1
+4/23/2003,Indonesia,1,0,0
+4/23/2003,Italy,3,0,2
+4/23/2003,Japan,2,0,0
+4/23/2003,Kuwait,1,0,1
+4/23/2003,Malaysia,5,2,2
+4/23/2003,Mongolia,3,0,3
+4/23/2003,Philippines,2,1,1
+4/23/2003,Republic of Ireland,1,0,1
+4/23/2003,Romania,1,0,1
+4/23/2003,Singapore,189,17,114
+4/23/2003,South Africa,1,0,0
+4/23/2003,Spain,1,0,0
+4/23/2003,Sweden,3,0,0
+4/23/2003,Switzerland,1,0,1
+4/23/2003,Thailand,7,2,5
+4/23/2003,United Kingdom,6,0,5
+4/23/2003,United States,39,0,0
+4/23/2003,Viet Nam,63,5,46
+4/24/2003,Brazil,2,0,2
+4/24/2003,Bulgaria,1,0,0
+4/24/2003,Canada,140,15,67
+4/24/2003,China,2422,110,1254
+4/24/2003,"Hong Kong SAR, China",1488,109,567
+4/24/2003,"Taiwan, China",37,0,21
+4/24/2003,France,5,0,1
+4/24/2003,Germany,7,0,6
+4/24/2003,India,1,0,1
+4/24/2003,Indonesia,1,0,1
+4/24/2003,Italy,4,0,3
+4/24/2003,Japan,2,0,0
+4/24/2003,Kuwait,1,0,1
+4/24/2003,Malaysia,5,2,2
+4/24/2003,Mongolia,3,0,3
+4/24/2003,Philippines,2,1,1
+4/24/2003,Republic of Ireland,1,0,1
+4/24/2003,Romania,1,0,1
+4/24/2003,Singapore,192,19,118
+4/24/2003,South Africa,1,0,0
+4/24/2003,Spain,1,0,1
+4/24/2003,Sweden,3,0,2
+4/24/2003,Switzerland,1,0,1
+4/24/2003,Thailand,8,2,5
+4/24/2003,United Kingdom,6,0,6
+4/24/2003,United States,37,0,0
+4/24/2003,Viet Nam,63,5,49
+4/25/2003,Brazil,2,0,2
+4/25/2003,Bulgaria,1,0,0
+4/25/2003,Canada,140,15,74
+4/25/2003,China,2601,115,1277
+4/25/2003,"Hong Kong SAR, China",1510,115,614
+4/25/2003,"Taiwan, China",41,0,21
+4/25/2003,France,5,0,1
+4/25/2003,Germany,7,0,6
+4/25/2003,India,1,0,1
+4/25/2003,Indonesia,1,0,1
+4/25/2003,Italy,4,0,3
+4/25/2003,Japan,2,0,0
+4/25/2003,Kuwait,1,0,1
+4/25/2003,Malaysia,5,2,2
+4/25/2003,Mongolia,3,0,3
+4/25/2003,Philippines,2,1,1
+4/25/2003,Republic of Ireland,1,0,1
+4/25/2003,Romania,1,0,1
+4/25/2003,Singapore,195,19,126
+4/25/2003,South Africa,1,0,0
+4/25/2003,Spain,1,0,1
+4/25/2003,Sweden,3,0,2
+4/25/2003,Switzerland,1,0,1
+4/25/2003,Thailand,8,2,5
+4/25/2003,United Kingdom,6,0,6
+4/25/2003,United States,39,0,0
+4/25/2003,Viet Nam,63,5,53
+4/26/2003,Brazil,2,0,2
+4/26/2003,Bulgaria,1,0,0
+4/26/2003,Canada,142,18,77
+4/26/2003,China,2753,122,1285
+4/26/2003,"Hong Kong SAR, China",1527,121,632
+4/26/2003,"Taiwan, China",49,0,25
+4/26/2003,France,5,0,1
+4/26/2003,Germany,7,0,6
+4/26/2003,India,1,0,1
+4/26/2003,Indonesia,1,0,1
+4/26/2003,Italy,4,0,3
+4/26/2003,Japan,2,0,0
+4/26/2003,Kuwait,1,0,1
+4/26/2003,Malaysia,5,2,2
+4/26/2003,Mongolia,5,0,3
+4/26/2003,Philippines,4,2,1
+4/26/2003,Republic of Ireland,1,0,1
+4/26/2003,Romania,1,0,1
+4/26/2003,Singapore,198,21,126
+4/26/2003,South Africa,1,0,0
+4/26/2003,Spain,1,0,1
+4/26/2003,Sweden,3,0,2
+4/26/2003,Switzerland,1,0,1
+4/26/2003,Thailand,7,2,5
+4/26/2003,United Kingdom,6,0,6
+4/26/2003,United States,41,0,0
+4/26/2003,Viet Nam,63,5,53
+4/28/2003,Brazil,2,0,2
+4/28/2003,Bulgaria,1,0,0
+4/28/2003,Canada,142,18,77
+4/28/2003,China,2914,131,1299
+4/28/2003,"Hong Kong SAR, China",1557,138,710
+4/28/2003,"Taiwan, China",66,0,25
+4/28/2003,France,5,0,1
+4/28/2003,Germany,7,0,6
+4/28/2003,India,1,0,1
+4/28/2003,Indonesia,1,0,1
+4/28/2003,Italy,8,0,3
+4/28/2003,Japan,2,0,0
+4/28/2003,Kuwait,1,0,1
+4/28/2003,Malaysia,6,2,2
+4/28/2003,Mongolia,5,0,3
+4/28/2003,Philippines,4,2,1
+4/28/2003,Republic of Ireland,1,0,1
+4/28/2003,Romania,1,0,1
+4/28/2003,Singapore,199,23,137
+4/28/2003,South Africa,1,0,0
+4/28/2003,Spain,1,0,1
+4/28/2003,Sweden,3,0,2
+4/28/2003,Switzerland,1,0,1
+4/28/2003,Thailand,7,2,5
+4/28/2003,United Kingdom,6,0,6
+4/28/2003,United States,41,0,0
+4/28/2003,Viet Nam,63,5,53
+4/29/2003,Brazil,2,0,2
+4/29/2003,Bulgaria,1,0,0
+4/29/2003,Canada,146,20,86
+4/29/2003,China,3303,148,1322
+4/29/2003,"Hong Kong SAR, China",1572,150,759
+4/29/2003,"Taiwan, China",66,0,25
+4/29/2003,France,5,0,1
+4/29/2003,Germany,7,0,6
+4/29/2003,India,1,0,1
+4/29/2003,Indonesia,1,0,1
+4/29/2003,Italy,9,0,4
+4/29/2003,Japan,2,0,0
+4/29/2003,Kuwait,1,0,1
+4/29/2003,Malaysia,6,2,3
+4/29/2003,Mongolia,5,0,3
+4/29/2003,Philippines,4,2,1
+4/29/2003,Republic of Ireland,1,0,1
+4/29/2003,Republic of Korea,1,0,0
+4/29/2003,Romania,1,0,1
+4/29/2003,Singapore,201,24,139
+4/29/2003,South Africa,1,0,0
+4/29/2003,Spain,1,0,1
+4/29/2003,Sweden,3,0,2
+4/29/2003,Switzerland,1,0,1
+4/29/2003,Thailand,7,2,5
+4/29/2003,United Kingdom,6,0,6
+4/29/2003,United States,41,0,0
+4/29/2003,Viet Nam,63,5,53
+4/30/2003,Brazil,2,0,2
+4/30/2003,Bulgaria,1,0,0
+4/30/2003,Canada,148,20,87
+4/30/2003,China,3460,159,1332
+4/30/2003,"Hong Kong SAR, China",1589,157,791
+4/30/2003,"Macao SAR, China",1,0,0
+4/30/2003,"Taiwan, China",78,1,25
+4/30/2003,France,5,0,1
+4/30/2003,Germany,7,0,7
+4/30/2003,Indonesia,2,0,1
+4/30/2003,Italy,9,0,4
+4/30/2003,Japan,2,0,0
+4/30/2003,Kuwait,1,0,1
+4/30/2003,Malaysia,6,2,3
+4/30/2003,Mongolia,6,0,3
+4/30/2003,Philippines,4,2,1
+4/30/2003,Republic of Ireland,1,0,1
+4/30/2003,Republic of Korea,1,0,0
+4/30/2003,Romania,1,0,1
+4/30/2003,Singapore,201,24,139
+4/30/2003,South Africa,1,0,0
+4/30/2003,Spain,1,0,1
+4/30/2003,Sweden,3,0,2
+4/30/2003,Switzerland,1,0,1
+4/30/2003,Thailand,7,2,5
+4/30/2003,United Kingdom,6,0,6
+4/30/2003,United States,52,0,0
+4/30/2003,Viet Nam,63,5,53
+5/1/2003,Brazil,2,0,2
+5/1/2003,Bulgaria,1,0,0
+5/1/2003,Canada,147,20,87
+5/1/2003,China,3638,170,1351
+5/1/2003,"Hong Kong SAR, China",1600,162,834
+5/1/2003,"Macao SAR, China",1,0,0
+5/1/2003,"Taiwan, China",89,3,25
+5/1/2003,France,5,0,1
+5/1/2003,Germany,7,0,7
+5/1/2003,Indonesia,2,0,1
+5/1/2003,Italy,9,0,4
+5/1/2003,Japan,2,0,0
+5/1/2003,Kuwait,1,0,1
+5/1/2003,Malaysia,6,2,3
+5/1/2003,Mongolia,6,0,3
+5/1/2003,Philippines,4,2,1
+5/1/2003,Poland,1,0,0
+5/1/2003,Republic of Ireland,1,0,1
+5/1/2003,Republic of Korea,1,0,0
+5/1/2003,Romania,1,0,1
+5/1/2003,Singapore,201,25,143
+5/1/2003,South Africa,1,0,0
+5/1/2003,Spain,1,0,1
+5/1/2003,Sweden,3,0,2
+5/1/2003,Switzerland,1,0,1
+5/1/2003,Thailand,7,2,5
+5/1/2003,United Kingdom,6,0,6
+5/1/2003,United States,54,0,23
+5/1/2003,Viet Nam,63,5,56
+5/2/2003,Brazil,2,0,2
+5/2/2003,Bulgaria,1,0,0
+5/2/2003,Canada,149,22,93
+5/2/2003,China,3799,181,1372
+5/2/2003,"Hong Kong SAR, China",1611,170,878
+5/2/2003,"Macao SAR, China",1,0,0
+5/2/2003,"Taiwan, China",100,8,25
+5/2/2003,France,5,0,4
+5/2/2003,Germany,7,0,7
+5/2/2003,Indonesia,2,0,1
+5/2/2003,Italy,9,0,4
+5/2/2003,Kuwait,1,0,1
+5/2/2003,Malaysia,6,2,3
+5/2/2003,Mongolia,8,0,4
+5/2/2003,New Zealand,1,0,1
+5/2/2003,Philippines,3,2,1
+5/2/2003,Poland,1,0,0
+5/2/2003,Republic of Ireland,1,0,1
+5/2/2003,Republic of Korea,1,0,0
+5/2/2003,Romania,1,0,1
+5/2/2003,Singapore,203,25,146
+5/2/2003,South Africa,1,0,0
+5/2/2003,Spain,1,0,1
+5/2/2003,Sweden,3,0,2
+5/2/2003,Switzerland,1,0,1
+5/2/2003,Thailand,7,2,5
+5/2/2003,United Kingdom,6,0,6
+5/2/2003,United States,56,0,24
+5/2/2003,Viet Nam,63,5,56
+5/3/2003,Brazil,2,0,2
+5/3/2003,Bulgaria,1,0,0
+5/3/2003,Canada,149,22,94
+5/3/2003,China,3971,190,1406
+5/3/2003,"Hong Kong SAR, China",1621,179,898
+5/3/2003,"Macao SAR, China",1,0,0
+5/3/2003,"Taiwan, China",100,8,25
+5/3/2003,France,5,0,4
+5/3/2003,Germany,7,0,7
+5/3/2003,Indonesia,2,0,1
+5/3/2003,Italy,9,0,4
+5/3/2003,Kuwait,1,0,1
+5/3/2003,Malaysia,6,2,3
+5/3/2003,Mongolia,8,0,4
+5/3/2003,New Zealand,1,0,1
+5/3/2003,Philippines,3,2,1
+5/3/2003,Poland,1,0,0
+5/3/2003,Republic of Ireland,1,0,1
+5/3/2003,Republic of Korea,1,0,0
+5/3/2003,Romania,1,0,1
+5/3/2003,Singapore,203,25,147
+5/3/2003,South Africa,1,0,1
+5/3/2003,Spain,1,0,1
+5/3/2003,Sweden,3,0,2
+5/3/2003,Switzerland,1,0,1
+5/3/2003,Thailand,7,2,5
+5/3/2003,United Kingdom,6,0,6
+5/3/2003,United States,54,0,24
+5/3/2003,Viet Nam,63,5,58
+5/5/2003,Brazil,2,0,2
+5/5/2003,Bulgaria,1,0,0
+5/5/2003,Canada,148,22,93
+5/5/2003,China,4280,206,1433
+5/5/2003,"Hong Kong SAR, China",1637,187,930
+5/5/2003,"Macao SAR, China",1,0,0
+5/5/2003,"Taiwan, China",116,8,25
+5/5/2003,France,5,0,4
+5/5/2003,Germany,7,0,7
+5/5/2003,Indonesia,2,0,1
+5/5/2003,Italy,9,0,4
+5/5/2003,Kuwait,1,0,1
+5/5/2003,Malaysia,7,2,4
+5/5/2003,Mongolia,8,0,4
+5/5/2003,New Zealand,1,0,1
+5/5/2003,Philippines,3,2,1
+5/5/2003,Poland,1,0,0
+5/5/2003,Republic of Ireland,1,0,1
+5/5/2003,Republic of Korea,1,0,0
+5/5/2003,Romania,1,0,1
+5/5/2003,Singapore,204,26,149
+5/5/2003,South Africa,1,1,0
+5/5/2003,Spain,1,0,1
+5/5/2003,Sweden,3,0,2
+5/5/2003,Switzerland,1,0,1
+5/5/2003,Thailand,7,2,5
+5/5/2003,United Kingdom,6,0,6
+5/5/2003,United States,61,0,26
+5/5/2003,Viet Nam,63,5,58
+5/6/2003,Brazil,2,0,2
+5/6/2003,Bulgaria,1,0,0
+5/6/2003,Canada,148,22,93
+5/6/2003,China,4409,214,1460
+5/6/2003,"Hong Kong SAR, China",1646,193,958
+5/6/2003,"Macao SAR, China",1,0,0
+5/6/2003,"Taiwan, China",116,10,25
+5/6/2003,Colombia,1,0,1
+5/6/2003,France,5,0,4
+5/6/2003,Germany,7,0,7
+5/6/2003,India,1,0,0
+5/6/2003,Indonesia,2,0,1
+5/6/2003,Italy,9,0,4
+5/6/2003,Kuwait,1,0,1
+5/6/2003,Malaysia,7,2,4
+5/6/2003,Mongolia,8,0,4
+5/6/2003,New Zealand,1,0,1
+5/6/2003,Philippines,3,2,1
+5/6/2003,Poland,1,0,0
+5/6/2003,Republic of Ireland,1,0,1
+5/6/2003,Republic of Korea,1,0,0
+5/6/2003,Romania,1,0,1
+5/6/2003,Singapore,204,27,149
+5/6/2003,South Africa,1,1,0
+5/6/2003,Spain,1,0,1
+5/6/2003,Sweden,3,0,2
+5/6/2003,Switzerland,1,0,1
+5/6/2003,Thailand,7,2,5
+5/6/2003,United Kingdom,6,0,6
+5/6/2003,United States,65,0,32
+5/6/2003,Viet Nam,63,5,58
+5/7/2003,Brazil,2,0,2
+5/7/2003,Bulgaria,1,0,0
+5/7/2003,Canada,146,22,93
+5/7/2003,China,4560,219,1487
+5/7/2003,"Hong Kong SAR, China",1654,204,984
+5/7/2003,"Macao SAR, China",1,0,0
+5/7/2003,"Taiwan, China",125,11,26
+5/7/2003,Colombia,1,0,1
+5/7/2003,France,6,0,4
+5/7/2003,Germany,8,0,7
+5/7/2003,India,1,0,0
+5/7/2003,Indonesia,2,0,1
+5/7/2003,Italy,9,0,5
+5/7/2003,Kuwait,1,0,1
+5/7/2003,Malaysia,7,2,4
+5/7/2003,Mongolia,9,0,6
+5/7/2003,New Zealand,1,0,1
+5/7/2003,Philippines,10,2,2
+5/7/2003,Poland,1,0,0
+5/7/2003,Republic of Ireland,1,0,1
+5/7/2003,Republic of Korea,1,0,0
+5/7/2003,Romania,1,0,1
+5/7/2003,Singapore,204,27,150
+5/7/2003,South Africa,1,1,0
+5/7/2003,Spain,1,0,1
+5/7/2003,Sweden,3,0,2
+5/7/2003,Switzerland,1,0,1
+5/7/2003,Thailand,7,2,5
+5/7/2003,United Kingdom,6,0,6
+5/7/2003,United States,65,0,32
+5/7/2003,Viet Nam,63,5,58
+5/8/2003,Brazil,2,0,2
+5/8/2003,Bulgaria,1,0,0
+5/8/2003,Canada,146,22,95
+5/8/2003,China,4698,224,1529
+5/8/2003,"Hong Kong SAR, China",1661,208,1008
+5/8/2003,"Macao SAR, China",1,0,0
+5/8/2003,"Taiwan, China",131,13,26
+5/8/2003,Colombia,1,0,1
+5/8/2003,Finland,1,0,0
+5/8/2003,France,6,0,4
+5/8/2003,Germany,8,0,7
+5/8/2003,India,1,0,0
+5/8/2003,Indonesia,2,0,1
+5/8/2003,Italy,9,0,6
+5/8/2003,Kuwait,1,0,1
+5/8/2003,Malaysia,7,2,4
+5/8/2003,Mongolia,9,0,6
+5/8/2003,New Zealand,1,0,1
+5/8/2003,Philippines,10,2,2
+5/8/2003,Poland,1,0,0
+5/8/2003,Republic of Ireland,1,0,1
+5/8/2003,Republic of Korea,1,0,1
+5/8/2003,Romania,1,0,1
+5/8/2003,Singapore,204,27,153
+5/8/2003,South Africa,1,1,0
+5/8/2003,Spain,1,0,1
+5/8/2003,Sweden,3,0,2
+5/8/2003,Switzerland,1,0,1
+5/8/2003,Thailand,7,2,5
+5/8/2003,United Kingdom,6,0,6
+5/8/2003,United States,63,0,33
+5/8/2003,Viet Nam,63,5,58
+5/9/2003,Brazil,2,0,2
+5/9/2003,Bulgaria,1,0,0
+5/9/2003,Canada,145,22,94
+5/9/2003,China,4805,230,1582
+5/9/2003,"Hong Kong SAR, China",1667,210,1015
+5/9/2003,"Macao SAR, China",1,0,0
+5/9/2003,"Taiwan, China",149,13,26
+5/9/2003,Colombia,1,0,1
+5/9/2003,Finland,1,0,0
+5/9/2003,France,6,0,4
+5/9/2003,Germany,9,0,9
+5/9/2003,India,1,0,0
+5/9/2003,Indonesia,2,0,1
+5/9/2003,Italy,9,0,9
+5/9/2003,Kuwait,1,0,1
+5/9/2003,Malaysia,6,2,4
+5/9/2003,Mongolia,9,0,6
+5/9/2003,New Zealand,1,0,1
+5/9/2003,Philippines,10,2,2
+5/9/2003,Poland,1,0,0
+5/9/2003,Republic of Ireland,1,0,1
+5/9/2003,Republic of Korea,1,0,1
+5/9/2003,Romania,1,0,1
+5/9/2003,Singapore,204,27,153
+5/9/2003,South Africa,1,1,0
+5/9/2003,Spain,1,0,1
+5/9/2003,Sweden,3,0,2
+5/9/2003,Switzerland,1,0,1
+5/9/2003,Thailand,7,2,5
+5/9/2003,United Kingdom,6,0,6
+5/9/2003,United States,63,0,33
+5/9/2003,Viet Nam,63,5,58
+5/10/2003,Brazil,2,0,2
+5/10/2003,Bulgaria,1,0,0
+5/10/2003,Canada,145,22,97
+5/10/2003,China,4884,235,1620
+5/10/2003,"Hong Kong SAR, China",1674,212,1035
+5/10/2003,"Macao SAR, China",1,0,0
+5/10/2003,"Taiwan, China",172,18,26
+5/10/2003,Colombia,1,0,1
+5/10/2003,Finland,1,0,0
+5/10/2003,France,7,0,4
+5/10/2003,Germany,9,0,9
+5/10/2003,India,1,0,0
+5/10/2003,Indonesia,2,0,1
+5/10/2003,Italy,9,0,9
+5/10/2003,Kuwait,1,0,1
+5/10/2003,Malaysia,7,2,4
+5/10/2003,Mongolia,9,0,6
+5/10/2003,New Zealand,1,0,1
+5/10/2003,Philippines,10,2,2
+5/10/2003,Poland,1,0,0
+5/10/2003,Republic of Ireland,1,0,1
+5/10/2003,Republic of Korea,1,0,1
+5/10/2003,Romania,1,0,1
+5/10/2003,Singapore,205,27,155
+5/10/2003,South Africa,1,1,0
+5/10/2003,Spain,1,0,1
+5/10/2003,Sweden,3,0,2
+5/10/2003,Switzerland,1,0,1
+5/10/2003,Thailand,7,2,5
+5/10/2003,United Kingdom,6,0,6
+5/10/2003,United States,64,0,34
+5/10/2003,Viet Nam,63,5,58
+5/12/2003,Brazil,2,0,2
+5/12/2003,Bulgaria,1,0,0
+5/12/2003,Canada,143,22,98
+5/12/2003,China,5013,252,1693
+5/12/2003,"Hong Kong SAR, China",1683,218,1066
+5/12/2003,"Macao SAR, China",1,0,0
+5/12/2003,"Taiwan, China",184,20,26
+5/12/2003,Colombia,1,0,1
+5/12/2003,Finland,1,0,0
+5/12/2003,France,7,0,4
+5/12/2003,Germany,9,0,9
+5/12/2003,India,1,0,0
+5/12/2003,Indonesia,2,0,1
+5/12/2003,Italy,9,0,8
+5/12/2003,Kuwait,1,0,1
+5/12/2003,Malaysia,7,2,4
+5/12/2003,Mongolia,9,0,6
+5/12/2003,New Zealand,1,0,1
+5/12/2003,Philippines,10,2,3
+5/12/2003,Poland,1,0,0
+5/12/2003,Republic of Ireland,1,0,1
+5/12/2003,Republic of Korea,2,0,1
+5/12/2003,Romania,1,0,1
+5/12/2003,Singapore,205,28,156
+5/12/2003,South Africa,1,1,0
+5/12/2003,Spain,1,0,1
+5/12/2003,Sweden,3,0,2
+5/12/2003,Switzerland,1,0,1
+5/12/2003,Thailand,7,2,5
+5/12/2003,United Kingdom,6,0,6
+5/12/2003,United States,64,0,34
+5/12/2003,Viet Nam,63,5,58
+5/13/2003,Brazil,2,0,2
+5/13/2003,Bulgaria,1,0,0
+5/13/2003,Canada,143,22,99
+5/13/2003,China,5086,262,1765
+5/13/2003,"Hong Kong SAR, China",1689,225,1090
+5/13/2003,"Macao SAR, China",1,0,0
+5/13/2003,"Taiwan, China",207,24,30
+5/13/2003,Colombia,1,0,1
+5/13/2003,Finland,1,0,0
+5/13/2003,France,7,0,4
+5/13/2003,Germany,9,0,9
+5/13/2003,India,3,0,0
+5/13/2003,Indonesia,2,0,1
+5/13/2003,Italy,9,0,9
+5/13/2003,Kuwait,1,0,1
+5/13/2003,Malaysia,7,2,4
+5/13/2003,Mongolia,9,0,6
+5/13/2003,New Zealand,1,0,1
+5/13/2003,Philippines,10,2,3
+5/13/2003,Republic of Ireland,1,0,1
+5/13/2003,Republic of Korea,2,0,1
+5/13/2003,Romania,1,0,1
+5/13/2003,Singapore,205,28,157
+5/13/2003,South Africa,1,1,0
+5/13/2003,Spain,1,0,1
+5/13/2003,Sweden,3,0,3
+5/13/2003,Switzerland,1,0,1
+5/13/2003,Thailand,7,2,5
+5/13/2003,United Kingdom,4,0,4
+5/13/2003,United States,64,0,35
+5/13/2003,Viet Nam,63,5,58
+5/14/2003,Brazil,2,0,2
+5/14/2003,Bulgaria,1,0,0
+5/14/2003,Canada,143,23,104
+5/14/2003,China,5124,267,1811
+5/14/2003,"Hong Kong SAR, China",1698,227,1128
+5/14/2003,"Macao SAR, China",1,0,0
+5/14/2003,"Taiwan, China",238,30,38
+5/14/2003,Colombia,1,0,1
+5/14/2003,Finland,1,0,0
+5/14/2003,France,7,0,4
+5/14/2003,Germany,9,0,9
+5/14/2003,India,3,0,0
+5/14/2003,Indonesia,2,0,2
+5/14/2003,Italy,9,0,9
+5/14/2003,Kuwait,1,0,1
+5/14/2003,Malaysia,7,2,5
+5/14/2003,Mongolia,9,0,6
+5/14/2003,New Zealand,1,0,1
+5/14/2003,Philippines,10,2,3
+5/14/2003,Republic of Ireland,1,0,1
+5/14/2003,Republic of Korea,3,0,1
+5/14/2003,Romania,1,0,1
+5/14/2003,Singapore,205,28,157
+5/14/2003,South Africa,1,1,0
+5/14/2003,Spain,1,0,1
+5/14/2003,Sweden,3,0,3
+5/14/2003,Switzerland,1,0,1
+5/14/2003,Thailand,8,2,5
+5/14/2003,United Kingdom,4,0,4
+5/14/2003,United States,64,0,35
+5/14/2003,Viet Nam,63,5,58
+5/15/2003,Brazil,2,0,2
+5/15/2003,Bulgaria,1,0,0
+5/15/2003,Canada,142,23,107
+5/15/2003,China,5163,271,1858
+5/15/2003,"Hong Kong SAR, China",1703,234,1160
+5/15/2003,"Macao SAR, China",1,0,0
+5/15/2003,"Taiwan, China",264,30,38
+5/15/2003,Colombia,1,0,1
+5/15/2003,Finland,1,0,0
+5/15/2003,France,7,0,4
+5/15/2003,Germany,9,0,9
+5/15/2003,India,3,0,3
+5/15/2003,Indonesia,2,0,2
+5/15/2003,Italy,9,0,9
+5/15/2003,Kuwait,1,0,1
+5/15/2003,Malaysia,7,2,5
+5/15/2003,Mongolia,9,0,7
+5/15/2003,New Zealand,1,0,1
+5/15/2003,Philippines,12,2,4
+5/15/2003,Republic of Ireland,1,0,1
+5/15/2003,Republic of Korea,3,0,1
+5/15/2003,Romania,1,0,1
+5/15/2003,Singapore,205,28,157
+5/15/2003,South Africa,1,1,0
+5/15/2003,Spain,1,0,1
+5/15/2003,Sweden,3,0,3
+5/15/2003,Switzerland,1,0,1
+5/15/2003,Thailand,8,2,5
+5/15/2003,United Kingdom,4,0,4
+5/15/2003,United States,64,0,35
+5/15/2003,Viet Nam,63,5,58
+5/16/2003,Brazil,2,0,2
+5/16/2003,Bulgaria,1,0,0
+5/16/2003,Canada,140,23,106
+5/16/2003,China,5191,275,1947
+5/16/2003,"Hong Kong SAR, China",1706,238,1171
+5/16/2003,"Macao SAR, China",1,0,0
+5/16/2003,"Taiwan, China",274,35,46
+5/16/2003,Colombia,1,0,1
+5/16/2003,Finland,1,0,0
+5/16/2003,France,7,0,4
+5/16/2003,Germany,9,0,9
+5/16/2003,India,3,0,3
+5/16/2003,Indonesia,2,0,2
+5/16/2003,Italy,9,0,9
+5/16/2003,Kuwait,1,0,1
+5/16/2003,Malaysia,7,2,5
+5/16/2003,Mongolia,9,0,7
+5/16/2003,New Zealand,1,0,1
+5/16/2003,Philippines,12,2,4
+5/16/2003,Republic of Ireland,1,0,1
+5/16/2003,Republic of Korea,3,0,1
+5/16/2003,Romania,1,0,1
+5/16/2003,Singapore,205,28,157
+5/16/2003,South Africa,1,1,0
+5/16/2003,Spain,1,0,1
+5/16/2003,Sweden,3,0,3
+5/16/2003,Switzerland,1,0,1
+5/16/2003,Thailand,8,2,5
+5/16/2003,United Kingdom,4,0,4
+5/16/2003,United States,65,0,34
+5/16/2003,Viet Nam,63,5,58
+5/17/2003,Brazil,2,0,2
+5/17/2003,Canada,140,23,106
+5/17/2003,China,5209,282,2009
+5/17/2003,"Hong Kong SAR, China",1710,243,1191
+5/17/2003,"Macao SAR, China",1,0,0
+5/17/2003,"Taiwan, China",274,35,46
+5/17/2003,Colombia,1,0,1
+5/17/2003,Finland,1,0,0
+5/17/2003,France,7,0,6
+5/17/2003,Germany,9,0,9
+5/17/2003,India,3,0,3
+5/17/2003,Indonesia,2,0,2
+5/17/2003,Italy,9,0,9
+5/17/2003,Kuwait,1,0,1
+5/17/2003,Malaysia,7,2,5
+5/17/2003,Mongolia,9,0,7
+5/17/2003,New Zealand,1,0,1
+5/17/2003,Philippines,12,2,4
+5/17/2003,Republic of Ireland,1,0,1
+5/17/2003,Republic of Korea,3,0,1
+5/17/2003,Romania,1,0,1
+5/17/2003,Singapore,205,28,157
+5/17/2003,South Africa,1,1,0
+5/17/2003,Spain,1,0,1
+5/17/2003,Sweden,3,0,3
+5/17/2003,Switzerland,1,0,1
+5/17/2003,Thailand,8,2,5
+5/17/2003,United Kingdom,4,0,4
+5/17/2003,United States,66,0,34
+5/17/2003,Viet Nam,63,5,58
+5/19/2003,Brazil,2,0,2
+5/19/2003,Canada,140,23,106
+5/19/2003,China,5236,289,2148
+5/19/2003,"Hong Kong SAR, China",1714,251,1213
+5/19/2003,"Macao SAR, China",1,0,0
+5/19/2003,"Taiwan, China",344,40,50
+5/19/2003,Colombia,1,0,1
+5/19/2003,Finland,1,0,0
+5/19/2003,France,7,0,6
+5/19/2003,Germany,9,0,9
+5/19/2003,India,3,0,3
+5/19/2003,Indonesia,2,0,2
+5/19/2003,Italy,9,0,9
+5/19/2003,Kuwait,1,0,1
+5/19/2003,Malaysia,7,2,5
+5/19/2003,Mongolia,9,0,8
+5/19/2003,New Zealand,1,0,1
+5/19/2003,Philippines,12,2,8
+5/19/2003,Republic of Ireland,1,0,1
+5/19/2003,Republic of Korea,3,0,1
+5/19/2003,Romania,1,0,1
+5/19/2003,Singapore,206,28,160
+5/19/2003,South Africa,1,1,0
+5/19/2003,Spain,1,0,1
+5/19/2003,Sweden,3,0,3
+5/19/2003,Switzerland,1,0,1
+5/19/2003,Thailand,8,2,5
+5/19/2003,United Kingdom,4,0,4
+5/19/2003,United States,67,0,34
+5/19/2003,Viet Nam,63,5,58
+5/20/2003,Brazil,2,0,2
+5/20/2003,Canada,140,23,106
+5/20/2003,China,5248,294,2254
+5/20/2003,"Hong Kong SAR, China",1718,253,1229
+5/20/2003,"Macao SAR, China",1,0,0
+5/20/2003,"Taiwan, China",383,52,63
+5/20/2003,Colombia,1,0,1
+5/20/2003,Finland,1,0,0
+5/20/2003,France,7,0,6
+5/20/2003,Germany,9,0,9
+5/20/2003,India,3,0,3
+5/20/2003,Indonesia,2,0,2
+5/20/2003,Italy,9,0,9
+5/20/2003,Kuwait,1,0,1
+5/20/2003,Malaysia,7,2,5
+5/20/2003,Mongolia,9,0,8
+5/20/2003,New Zealand,1,0,1
+5/20/2003,Philippines,12,2,8
+5/20/2003,Republic of Ireland,1,0,1
+5/20/2003,Republic of Korea,3,0,2
+5/20/2003,Romania,1,0,1
+5/20/2003,Singapore,206,28,161
+5/20/2003,South Africa,1,1,0
+5/20/2003,Spain,1,0,1
+5/20/2003,Sweden,3,0,3
+5/20/2003,Switzerland,1,0,1
+5/20/2003,Thailand,8,2,5
+5/20/2003,United Kingdom,4,0,4
+5/20/2003,United States,67,0,34
+5/20/2003,Viet Nam,63,5,58
+5/21/2003,Brazil,2,0,2
+5/21/2003,Canada,140,23,108
+5/21/2003,China,5249,296,2335
+5/21/2003,"Hong Kong SAR, China",1719,255,1237
+5/21/2003,"Macao SAR, China",1,0,0
+5/21/2003,"Taiwan, China",418,52,71
+5/21/2003,Colombia,1,0,1
+5/21/2003,Finland,1,0,1
+5/21/2003,France,7,0,6
+5/21/2003,Germany,9,0,9
+5/21/2003,India,3,0,3
+5/21/2003,Indonesia,2,0,2
+5/21/2003,Italy,9,0,9
+5/21/2003,Kuwait,1,0,1
+5/21/2003,Malaysia,8,2,5
+5/21/2003,Mongolia,9,0,8
+5/21/2003,New Zealand,1,0,1
+5/21/2003,Philippines,12,2,10
+5/21/2003,Republic of Ireland,1,0,1
+5/21/2003,Republic of Korea,3,0,2
+5/21/2003,Romania,1,0,1
+5/21/2003,Singapore,206,28,161
+5/21/2003,South Africa,1,1,0
+5/21/2003,Spain,1,0,1
+5/21/2003,Sweden,3,0,3
+5/21/2003,Switzerland,1,0,1
+5/21/2003,Thailand,8,2,5
+5/21/2003,United Kingdom,4,0,4
+5/21/2003,United States,66,0,33
+5/21/2003,Viet Nam,63,5,58
+5/22/2003,Australia,6,0,6
+5/22/2003,Brazil,2,0,2
+5/22/2003,Canada,140,23,109
+5/22/2003,China,5271,300,2445
+5/22/2003,"Hong Kong SAR, China",1722,258,1247
+5/22/2003,"Macao SAR, China",2,0,0
+5/22/2003,"Taiwan, China",483,60,74
+5/22/2003,Colombia,1,0,1
+5/22/2003,Finland,1,0,1
+5/22/2003,France,7,0,6
+5/22/2003,Germany,9,0,9
+5/22/2003,India,3,0,3
+5/22/2003,Indonesia,2,0,2
+5/22/2003,Italy,9,0,9
+5/22/2003,Kuwait,1,0,1
+5/22/2003,Malaysia,8,2,5
+5/22/2003,Mongolia,9,0,8
+5/22/2003,New Zealand,1,0,1
+5/22/2003,Philippines,12,2,10
+5/22/2003,Republic of Ireland,1,0,1
+5/22/2003,Republic of Korea,3,0,2
+5/22/2003,Romania,1,0,1
+5/22/2003,Singapore,206,29,162
+5/22/2003,South Africa,1,1,0
+5/22/2003,Spain,1,0,1
+5/22/2003,Sweden,3,0,3
+5/22/2003,Switzerland,1,0,1
+5/22/2003,Thailand,8,2,5
+5/22/2003,United Kingdom,4,0,4
+5/22/2003,United States,65,0,33
+5/22/2003,Viet Nam,63,5,58
+5/23/2003,Brazil,2,0,2
+5/23/2003,Canada,140,23,109
+5/23/2003,China,5285,303,2544
+5/23/2003,"Hong Kong SAR, China",1724,260,1255
+5/23/2003,"Macao SAR, China",2,0,0
+5/23/2003,"Taiwan, China",538,60,82
+5/23/2003,Colombia,1,0,1
+5/23/2003,Finland,1,0,1
+5/23/2003,France,7,0,6
+5/23/2003,Germany,9,0,9
+5/23/2003,India,3,0,3
+5/23/2003,Indonesia,2,0,2
+5/23/2003,Italy,9,0,9
+5/23/2003,Kuwait,1,0,1
+5/23/2003,Malaysia,8,2,5
+5/23/2003,Mongolia,9,0,8
+5/23/2003,New Zealand,1,0,1
+5/23/2003,Philippines,12,2,10
+5/23/2003,Republic of Ireland,1,0,1
+5/23/2003,Republic of Korea,3,0,2
+5/23/2003,Romania,1,0,1
+5/23/2003,Singapore,206,31,163
+5/23/2003,South Africa,1,1,0
+5/23/2003,Spain,1,0,1
+5/23/2003,Sweden,3,0,3
+5/23/2003,Switzerland,1,0,1
+5/23/2003,Thailand,8,2,5
+5/23/2003,United Kingdom,4,0,4
+5/23/2003,United States,65,0,33
+5/23/2003,Viet Nam,63,5,58
+5/24/2003,Brazil,2,0,2
+5/24/2003,Canada,140,23,109
+5/24/2003,China,5309,308,2675
+5/24/2003,"Hong Kong SAR, China",1724,262,1266
+5/24/2003,"Macao SAR, China",2,0,0
+5/24/2003,"Taiwan, China",538,60,82
+5/24/2003,Colombia,1,0,1
+5/24/2003,Finland,1,0,1
+5/24/2003,France,7,0,6
+5/24/2003,Germany,9,0,9
+5/24/2003,India,3,0,3
+5/24/2003,Indonesia,2,0,2
+5/24/2003,Italy,9,0,9
+5/24/2003,Kuwait,1,0,1
+5/24/2003,Malaysia,8,2,5
+5/24/2003,Mongolia,9,0,8
+5/24/2003,New Zealand,1,0,1
+5/24/2003,Philippines,12,2,10
+5/24/2003,Republic of Ireland,1,0,1
+5/24/2003,Republic of Korea,3,0,2
+5/24/2003,Romania,1,0,1
+5/24/2003,Singapore,206,31,163
+5/24/2003,South Africa,1,1,0
+5/24/2003,Spain,1,0,1
+5/24/2003,Sweden,3,0,3
+5/24/2003,Switzerland,1,0,1
+5/24/2003,Thailand,8,2,5
+5/24/2003,United Kingdom,4,0,4
+5/24/2003,United States,65,0,33
+5/24/2003,Viet Nam,63,5,58
+5/26/2003,Brazil,2,0,2
+5/26/2003,Canada,148,26,110
+5/26/2003,China,5316,317,2829
+5/26/2003,"Hong Kong SAR, China",1726,267,1276
+5/26/2003,"Macao SAR, China",2,0,0
+5/26/2003,"Taiwan, China",585,72,112
+5/26/2003,Colombia,1,0,1
+5/26/2003,Finland,1,0,1
+5/26/2003,France,7,0,6
+5/26/2003,Germany,9,0,9
+5/26/2003,India,3,0,3
+5/26/2003,Indonesia,2,0,2
+5/26/2003,Italy,9,0,9
+5/26/2003,Kuwait,1,0,1
+5/26/2003,Malaysia,5,2,3
+5/26/2003,Mongolia,9,0,8
+5/26/2003,New Zealand,1,0,1
+5/26/2003,Philippines,12,2,10
+5/26/2003,Republic of Ireland,1,0,1
+5/26/2003,Republic of Korea,3,0,2
+5/26/2003,Romania,1,0,1
+5/26/2003,Singapore,206,31,163
+5/26/2003,South Africa,1,1,0
+5/26/2003,Spain,1,0,1
+5/26/2003,Sweden,3,0,3
+5/26/2003,Switzerland,1,0,1
+5/26/2003,Thailand,8,2,6
+5/26/2003,United Kingdom,4,0,4
+5/26/2003,United States,65,0,33
+5/26/2003,Viet Nam,63,5,58
+5/27/2003,Brazil,2,0,2
+5/27/2003,Canada,148,26,111
+5/27/2003,China,5322,321,2944
+5/27/2003,"Hong Kong SAR, China",1728,269,1285
+5/27/2003,"Macao SAR, China",2,0,0
+5/27/2003,"Taiwan, China",596,76,112
+5/27/2003,Colombia,1,0,1
+5/27/2003,Finland,1,0,1
+5/27/2003,France,7,0,6
+5/27/2003,Germany,9,0,9
+5/27/2003,India,3,0,3
+5/27/2003,Indonesia,2,0,2
+5/27/2003,Italy,9,0,9
+5/27/2003,Kuwait,1,0,1
+5/27/2003,Malaysia,5,2,3
+5/27/2003,Mongolia,9,0,9
+5/27/2003,New Zealand,1,0,1
+5/27/2003,Philippines,12,2,10
+5/27/2003,Republic of Ireland,1,0,1
+5/27/2003,Republic of Korea,3,0,2
+5/27/2003,Romania,1,0,1
+5/27/2003,Singapore,206,31,163
+5/27/2003,South Africa,1,1,0
+5/27/2003,Spain,1,0,1
+5/27/2003,Sweden,3,0,3
+5/27/2003,Switzerland,1,0,1
+5/27/2003,Thailand,8,2,6
+5/27/2003,United Kingdom,4,0,4
+5/27/2003,United States,65,0,32
+5/27/2003,Viet Nam,63,5,58
+5/28/2003,Australia,6,0,6
+5/28/2003,Brazil,2,0,2
+5/28/2003,Canada,149,26,111
+5/28/2003,China,5323,325,3036
+5/28/2003,"Hong Kong SAR, China",1730,270,1295
+5/28/2003,"Macao SAR, China",2,0,0
+5/28/2003,"Taiwan, China",610,81,112
+5/28/2003,Colombia,1,0,1
+5/28/2003,Finland,1,0,1
+5/28/2003,France,7,0,6
+5/28/2003,Germany,9,0,9
+5/28/2003,India,3,0,3
+5/28/2003,Indonesia,2,0,2
+5/28/2003,Italy,9,0,9
+5/28/2003,Kuwait,1,0,1
+5/28/2003,Malaysia,5,2,3
+5/28/2003,Mongolia,9,0,9
+5/28/2003,New Zealand,1,0,1
+5/28/2003,Philippines,12,2,10
+5/28/2003,Republic of Ireland,1,0,1
+5/28/2003,Republic of Korea,3,0,2
+5/28/2003,Romania,1,0,1
+5/28/2003,Singapore,206,31,165
+5/28/2003,South Africa,1,1,0
+5/28/2003,Spain,1,0,1
+5/28/2003,Sweden,3,0,3
+5/28/2003,Switzerland,1,0,1
+5/28/2003,Thailand,8,2,6
+5/28/2003,United Kingdom,4,0,4
+5/28/2003,United States,66,0,32
+5/28/2003,Viet Nam,63,5,58
+5/29/2003,Australia,6,0,6
+5/29/2003,Brazil,2,0,2
+5/29/2003,Canada,151,26,112
+5/29/2003,China,5325,327,3121
+5/29/2003,"Hong Kong SAR, China",1732,273,1302
+5/29/2003,"Macao SAR, China",1,0,0
+5/29/2003,"Taiwan, China",660,81,122
+5/29/2003,Colombia,1,0,1
+5/29/2003,Finland,1,0,1
+5/29/2003,France,7,0,6
+5/29/2003,Germany,9,0,9
+5/29/2003,India,3,0,3
+5/29/2003,Indonesia,2,0,2
+5/29/2003,Italy,9,0,9
+5/29/2003,Kuwait,1,0,1
+5/29/2003,Malaysia,5,2,3
+5/29/2003,Mongolia,9,0,9
+5/29/2003,New Zealand,1,0,1
+5/29/2003,Philippines,12,2,10
+5/29/2003,Republic of Ireland,1,0,1
+5/29/2003,Republic of Korea,3,0,2
+5/29/2003,Romania,1,0,1
+5/29/2003,Singapore,206,31,165
+5/29/2003,South Africa,1,1,0
+5/29/2003,Spain,1,0,1
+5/29/2003,Sweden,3,0,3
+5/29/2003,Switzerland,1,0,1
+5/29/2003,Thailand,8,2,6
+5/29/2003,United Kingdom,4,0,4
+5/29/2003,United States,66,0,32
+5/29/2003,Viet Nam,63,5,58
+5/30/2003,Brazil,2,0,2
+5/30/2003,Canada,159,28,112
+5/30/2003,China,5328,328,3250
+5/30/2003,"Hong Kong SAR, China",1736,274,1304
+5/30/2003,"Macao SAR, China",1,0,0
+5/30/2003,"Taiwan, China",667,81,125
+5/30/2003,Colombia,1,0,1
+5/30/2003,Finland,1,0,1
+5/30/2003,France,7,0,6
+5/30/2003,Germany,9,0,9
+5/30/2003,India,3,0,3
+5/30/2003,Indonesia,2,0,2
+5/30/2003,Italy,9,0,9
+5/30/2003,Kuwait,1,0,1
+5/30/2003,Malaysia,5,2,3
+5/30/2003,Mongolia,9,0,9
+5/30/2003,New Zealand,1,0,1
+5/30/2003,Philippines,12,2,10
+5/30/2003,Republic of Ireland,1,0,1
+5/30/2003,Republic of Korea,3,0,3
+5/30/2003,Romania,1,0,1
+5/30/2003,Singapore,206,31,165
+5/30/2003,South Africa,1,1,0
+5/30/2003,Spain,1,0,1
+5/30/2003,Sweden,3,0,3
+5/30/2003,Switzerland,1,0,1
+5/30/2003,Thailand,8,2,6
+5/30/2003,United Kingdom,4,0,4
+5/30/2003,United States,66,0,32
+5/30/2003,Viet Nam,63,5,58
+5/31/2003,Brazil,2,0,2
+5/31/2003,Canada,188,30,116
+5/31/2003,China,5328,332,3371
+5/31/2003,"Hong Kong SAR, China",1739,278,1310
+5/31/2003,"Macao SAR, China",1,0,0
+5/31/2003,"Taiwan, China",676,81,129
+5/31/2003,Colombia,1,0,1
+5/31/2003,Finland,1,0,1
+5/31/2003,France,7,0,6
+5/31/2003,Germany,10,0,9
+5/31/2003,India,3,0,3
+5/31/2003,Indonesia,2,0,2
+5/31/2003,Italy,9,0,9
+5/31/2003,Kuwait,1,0,1
+5/31/2003,Malaysia,5,2,3
+5/31/2003,Mongolia,9,0,9
+5/31/2003,New Zealand,1,0,1
+5/31/2003,Philippines,12,2,10
+5/31/2003,Republic of Ireland,1,0,1
+5/31/2003,Republic of Korea,3,0,3
+5/31/2003,Romania,1,0,1
+5/31/2003,Russian Federation,1,0,0
+5/31/2003,Singapore,206,31,165
+5/31/2003,South Africa,1,1,0
+5/31/2003,Spain,1,0,1
+5/31/2003,Sweden,3,0,3
+5/31/2003,Switzerland,1,0,1
+5/31/2003,Thailand,8,2,6
+5/31/2003,United Kingdom,4,0,4
+5/31/2003,United States,66,0,32
+5/31/2003,Viet Nam,63,5,58
+6/2/2003,Brazil,2,0,2
+6/2/2003,Canada,198,30,116
+6/2/2003,China,5328,334,3495
+6/2/2003,"Hong Kong SAR, China",1746,282,1319
+6/2/2003,"Macao SAR, China",1,0,1
+6/2/2003,"Taiwan, China",684,81,134
+6/2/2003,Colombia,1,0,1
+6/2/2003,Finland,1,0,1
+6/2/2003,France,7,0,6
+6/2/2003,Germany,10,0,9
+6/2/2003,India,3,0,3
+6/2/2003,Indonesia,2,0,2
+6/2/2003,Italy,9,0,9
+6/2/2003,Kuwait,1,0,1
+6/2/2003,Malaysia,5,2,3
+6/2/2003,Mongolia,9,0,9
+6/2/2003,New Zealand,1,0,1
+6/2/2003,Philippines,12,2,10
+6/2/2003,Republic of Ireland,1,0,1
+6/2/2003,Republic of Korea,3,0,3
+6/2/2003,Romania,1,0,1
+6/2/2003,Russian Federation,1,0,0
+6/2/2003,Singapore,206,31,165
+6/2/2003,South Africa,1,1,0
+6/2/2003,Spain,1,0,1
+6/2/2003,Sweden,3,0,3
+6/2/2003,Switzerland,1,0,1
+6/2/2003,Thailand,8,2,6
+6/2/2003,United Kingdom,4,0,4
+6/2/2003,United States,66,0,32
+6/2/2003,Viet Nam,63,5,58
+6/3/2003,Brazil,2,0,2
+6/3/2003,Canada,213,31,116
+6/3/2003,China,5329,334,3558
+6/3/2003,"Hong Kong SAR, China",1747,283,1326
+6/3/2003,"Macao SAR, China",1,0,1
+6/3/2003,"Taiwan, China",679,81,136
+6/3/2003,Colombia,1,0,1
+6/3/2003,Finland,1,0,1
+6/3/2003,France,7,0,6
+6/3/2003,Germany,10,0,9
+6/3/2003,India,3,0,3
+6/3/2003,Indonesia,2,0,2
+6/3/2003,Italy,9,0,9
+6/3/2003,Kuwait,1,0,1
+6/3/2003,Malaysia,5,2,3
+6/3/2003,Mongolia,9,0,9
+6/3/2003,New Zealand,1,0,1
+6/3/2003,Philippines,12,2,10
+6/3/2003,Republic of Ireland,1,0,1
+6/3/2003,Republic of Korea,3,0,3
+6/3/2003,Romania,1,0,1
+6/3/2003,Russian Federation,1,0,0
+6/3/2003,Singapore,206,31,165
+6/3/2003,South Africa,1,1,0
+6/3/2003,Spain,1,0,1
+6/3/2003,Sweden,3,0,3
+6/3/2003,Switzerland,1,0,1
+6/3/2003,Thailand,8,2,6
+6/3/2003,United Kingdom,4,0,4
+6/3/2003,United States,68,0,33
+6/3/2003,Viet Nam,63,5,58
+6/4/2003,Brazil,2,0,2
+6/4/2003,Canada,216,31,121
+6/4/2003,China,5329,334,3674
+6/4/2003,"Hong Kong SAR, China",1748,283,1339
+6/4/2003,"Macao SAR, China",1,0,1
+6/4/2003,"Taiwan, China",678,81,272
+6/4/2003,Colombia,1,0,1
+6/4/2003,Finland,1,0,1
+6/4/2003,France,7,0,6
+6/4/2003,Germany,10,0,9
+6/4/2003,India,3,0,3
+6/4/2003,Indonesia,2,0,2
+6/4/2003,Italy,9,0,9
+6/4/2003,Kuwait,1,0,1
+6/4/2003,Malaysia,5,2,3
+6/4/2003,Mongolia,9,0,9
+6/4/2003,New Zealand,1,0,1
+6/4/2003,Philippines,12,2,10
+6/4/2003,Republic of Ireland,1,0,1
+6/4/2003,Republic of Korea,3,0,3
+6/4/2003,Romania,1,0,1
+6/4/2003,Russian Federation,1,0,0
+6/4/2003,Singapore,206,31,165
+6/4/2003,South Africa,1,1,0
+6/4/2003,Spain,1,0,1
+6/4/2003,Sweden,3,0,3
+6/4/2003,Switzerland,1,0,1
+6/4/2003,Thailand,8,2,6
+6/4/2003,United Kingdom,4,0,4
+6/4/2003,United States,69,0,34
+6/4/2003,Viet Nam,63,5,58
+6/5/2003,Brazil,2,0,2
+6/5/2003,Canada,218,31,120
+6/5/2003,China,5329,336,3770
+6/5/2003,"Hong Kong SAR, China",1748,284,1343
+6/5/2003,"Macao SAR, China",1,0,1
+6/5/2003,"Taiwan, China",677,81,257
+6/5/2003,Colombia,1,0,1
+6/5/2003,Finland,1,0,1
+6/5/2003,France,7,0,6
+6/5/2003,Germany,10,0,9
+6/5/2003,India,3,0,3
+6/5/2003,Indonesia,2,0,2
+6/5/2003,Italy,9,0,9
+6/5/2003,Kuwait,1,0,1
+6/5/2003,Malaysia,5,2,3
+6/5/2003,Mongolia,9,0,9
+6/5/2003,New Zealand,1,0,1
+6/5/2003,Philippines,12,2,10
+6/5/2003,Republic of Ireland,1,0,1
+6/5/2003,Republic of Korea,3,0,3
+6/5/2003,Romania,1,0,1
+6/5/2003,Russian Federation,1,0,0
+6/5/2003,Singapore,206,31,165
+6/5/2003,South Africa,1,1,0
+6/5/2003,Spain,1,0,1
+6/5/2003,Sweden,3,0,3
+6/5/2003,Switzerland,1,0,1
+6/5/2003,Thailand,8,2,6
+6/5/2003,United Kingdom,4,0,4
+6/5/2003,United States,69,0,34
+6/5/2003,Viet Nam,63,5,58
+6/6/2003,Brazil,2,0,2
+6/6/2003,Canada,219,31,120
+6/6/2003,China,5329,338,3869
+6/6/2003,"Hong Kong SAR, China",1750,286,1350
+6/6/2003,"Macao SAR, China",1,0,1
+6/6/2003,"Taiwan, China",676,81,257
+6/6/2003,Colombia,1,0,1
+6/6/2003,Finland,1,0,1
+6/6/2003,France,7,0,6
+6/6/2003,Germany,10,0,9
+6/6/2003,India,3,0,3
+6/6/2003,Indonesia,2,0,2
+6/6/2003,Italy,9,0,9
+6/6/2003,Kuwait,1,0,1
+6/6/2003,Malaysia,5,2,3
+6/6/2003,Mongolia,9,0,9
+6/6/2003,New Zealand,1,0,1
+6/6/2003,Philippines,12,2,10
+6/6/2003,Republic of Ireland,1,0,1
+6/6/2003,Republic of Korea,3,0,3
+6/6/2003,Romania,1,0,1
+6/6/2003,Russian Federation,1,0,0
+6/6/2003,Singapore,206,31,165
+6/6/2003,South Africa,1,1,0
+6/6/2003,Spain,1,0,1
+6/6/2003,Sweden,3,0,3
+6/6/2003,Switzerland,1,0,1
+6/6/2003,Thailand,8,2,6
+6/6/2003,United Kingdom,4,0,4
+6/6/2003,United States,68,0,35
+6/6/2003,Viet Nam,63,5,58
+6/9/2003,Brazil,2,0,2
+6/9/2003,Canada,229,32,128
+6/9/2003,China,5328,340,4186
+6/9/2003,"Hong Kong SAR, China",1753,288,1365
+6/9/2003,"Macao SAR, China",1,0,1
+6/9/2003,"Taiwan, China",680,81,257
+6/9/2003,Colombia,1,0,1
+6/9/2003,Finland,1,0,1
+6/9/2003,France,7,0,6
+6/9/2003,Germany,10,0,9
+6/9/2003,India,3,0,3
+6/9/2003,Indonesia,2,0,2
+6/9/2003,Italy,9,0,9
+6/9/2003,Kuwait,1,0,1
+6/9/2003,Malaysia,5,2,3
+6/9/2003,Mongolia,9,0,9
+6/9/2003,New Zealand,1,0,1
+6/9/2003,Philippines,12,2,10
+6/9/2003,Republic of Ireland,1,0,1
+6/9/2003,Republic of Korea,3,0,3
+6/9/2003,Romania,1,0,1
+6/9/2003,Russian Federation,1,0,0
+6/9/2003,Singapore,206,31,168
+6/9/2003,South Africa,1,1,0
+6/9/2003,Spain,1,0,1
+6/9/2003,Sweden,3,0,3
+6/9/2003,Switzerland,1,0,1
+6/9/2003,Thailand,9,2,6
+6/9/2003,United Kingdom,4,0,4
+6/9/2003,United States,68,0,35
+6/9/2003,Viet Nam,63,5,58
+6/10/2003,Brazil,3,0,2
+6/10/2003,Canada,229,32,131
+6/10/2003,China,5328,343,4294
+6/10/2003,"Hong Kong SAR, China",1754,290,1368
+6/10/2003,"Macao SAR, China",1,0,1
+6/10/2003,"Taiwan, China",686,81,319
+6/10/2003,Colombia,1,0,1
+6/10/2003,Finland,1,0,1
+6/10/2003,France,7,0,6
+6/10/2003,Germany,10,0,9
+6/10/2003,India,3,0,3
+6/10/2003,Indonesia,2,0,2
+6/10/2003,Italy,9,0,9
+6/10/2003,Kuwait,1,0,1
+6/10/2003,Malaysia,5,2,3
+6/10/2003,Mongolia,9,0,9
+6/10/2003,New Zealand,1,0,1
+6/10/2003,Philippines,12,2,10
+6/10/2003,Republic of Ireland,1,0,1
+6/10/2003,Republic of Korea,3,0,3
+6/10/2003,Romania,1,0,1
+6/10/2003,Russian Federation,1,0,0
+6/10/2003,Singapore,206,31,168
+6/10/2003,South Africa,1,1,0
+6/10/2003,Spain,1,0,1
+6/10/2003,Sweden,3,0,3
+6/10/2003,Switzerland,1,0,1
+6/10/2003,Thailand,9,2,6
+6/10/2003,United Kingdom,4,0,4
+6/10/2003,United States,69,0,36
+6/10/2003,Viet Nam,63,5,58
+6/11/2003,Brazil,3,0,2
+6/11/2003,Canada,230,32,134
+6/11/2003,China,5329,343,4390
+6/11/2003,"Hong Kong SAR, China",1754,290,1368
+6/11/2003,"Macao SAR, China",1,0,1
+6/11/2003,"Taiwan, China",687,81,344
+6/11/2003,Colombia,1,0,1
+6/11/2003,Finland,1,0,1
+6/11/2003,France,7,0,6
+6/11/2003,Germany,10,0,9
+6/11/2003,India,3,0,3
+6/11/2003,Indonesia,2,0,2
+6/11/2003,Italy,9,0,9
+6/11/2003,Kuwait,1,0,1
+6/11/2003,Malaysia,5,2,3
+6/11/2003,Mongolia,9,0,9
+6/11/2003,New Zealand,1,0,1
+6/11/2003,Philippines,12,2,10
+6/11/2003,Republic of Ireland,1,0,1
+6/11/2003,Republic of Korea,3,0,3
+6/11/2003,Romania,1,0,1
+6/11/2003,Russian Federation,1,0,0
+6/11/2003,Singapore,206,31,168
+6/11/2003,South Africa,1,1,0
+6/11/2003,Spain,1,0,1
+6/11/2003,Sweden,3,0,3
+6/11/2003,Switzerland,1,0,1
+6/11/2003,Thailand,9,2,6
+6/11/2003,United Kingdom,4,0,4
+6/11/2003,United States,71,0,36
+6/11/2003,Viet Nam,63,5,58
+6/12/2003,Brazil,3,0,2
+6/12/2003,Canada,238,32,141
+6/12/2003,China,5328,343,4457
+6/12/2003,"Hong Kong SAR, China",1755,291,1377
+6/12/2003,"Macao SAR, China",1,0,1
+6/12/2003,"Taiwan, China",688,81,347
+6/12/2003,Colombia,1,0,1
+6/12/2003,Finland,1,0,1
+6/12/2003,France,7,0,6
+6/12/2003,Germany,10,0,9
+6/12/2003,India,3,0,3
+6/12/2003,Indonesia,2,0,2
+6/12/2003,Italy,9,0,9
+6/12/2003,Kuwait,1,0,1
+6/12/2003,Malaysia,5,2,3
+6/12/2003,Mongolia,9,0,9
+6/12/2003,New Zealand,1,0,1
+6/12/2003,Philippines,14,2,12
+6/12/2003,Republic of Ireland,1,0,1
+6/12/2003,Republic of Korea,3,0,3
+6/12/2003,Romania,1,0,1
+6/12/2003,Russian Federation,1,0,0
+6/12/2003,Singapore,206,31,169
+6/12/2003,South Africa,1,1,0
+6/12/2003,Spain,1,0,1
+6/12/2003,Sweden,3,0,3
+6/12/2003,Switzerland,1,0,1
+6/12/2003,Thailand,9,2,6
+6/12/2003,United Kingdom,4,0,4
+6/12/2003,United States,70,0,36
+6/12/2003,Viet Nam,63,5,58
+6/13/2003,Brazil,3,0,2
+6/13/2003,Canada,242,32,150
+6/13/2003,China,5327,343,4530
+6/13/2003,"Hong Kong SAR, China",1755,293,1380
+6/13/2003,"Macao SAR, China",1,0,1
+6/13/2003,"Taiwan, China",693,81,385
+6/13/2003,Colombia,1,0,1
+6/13/2003,Finland,1,0,1
+6/13/2003,France,7,0,6
+6/13/2003,Germany,10,0,9
+6/13/2003,India,3,0,3
+6/13/2003,Indonesia,2,0,2
+6/13/2003,Italy,9,0,9
+6/13/2003,Kuwait,1,0,1
+6/13/2003,Malaysia,5,2,3
+6/13/2003,Mongolia,9,0,9
+6/13/2003,New Zealand,1,0,1
+6/13/2003,Philippines,14,2,12
+6/13/2003,Republic of Ireland,1,0,1
+6/13/2003,Republic of Korea,3,0,3
+6/13/2003,Romania,1,0,1
+6/13/2003,Russian Federation,1,0,0
+6/13/2003,Singapore,206,31,169
+6/13/2003,South Africa,1,1,0
+6/13/2003,Spain,1,0,1
+6/13/2003,Sweden,3,0,3
+6/13/2003,Switzerland,1,0,1
+6/13/2003,Thailand,9,2,6
+6/13/2003,United Kingdom,4,0,4
+6/13/2003,United States,71,0,36
+6/13/2003,Viet Nam,63,5,58
+6/16/2003,Brazil,3,0,2
+6/16/2003,Canada,243,32,156
+6/16/2003,China,5326,346,4656
+6/16/2003,"Hong Kong SAR, China",1755,295,1386
+6/16/2003,"Macao SAR, China",1,0,1
+6/16/2003,"Taiwan, China",698,83,443
+6/16/2003,Colombia,1,0,1
+6/16/2003,Finland,1,0,1
+6/16/2003,France,7,0,6
+6/16/2003,Germany,10,0,9
+6/16/2003,India,3,0,3
+6/16/2003,Indonesia,2,0,2
+6/16/2003,Italy,9,0,9
+6/16/2003,Kuwait,1,0,1
+6/16/2003,Malaysia,5,2,3
+6/16/2003,Mongolia,9,0,9
+6/16/2003,New Zealand,1,0,1
+6/16/2003,Philippines,14,2,12
+6/16/2003,Republic of Ireland,1,0,1
+6/16/2003,Republic of Korea,3,0,3
+6/16/2003,Romania,1,0,1
+6/16/2003,Russian Federation,1,0,0
+6/16/2003,Singapore,206,31,169
+6/16/2003,South Africa,1,1,0
+6/16/2003,Spain,1,0,1
+6/16/2003,Sweden,3,0,3
+6/16/2003,Switzerland,1,0,1
+6/16/2003,Thailand,9,2,6
+6/16/2003,United Kingdom,4,0,4
+6/16/2003,United States,72,0,36
+6/16/2003,Viet Nam,63,5,58
+6/17/2003,Brazil,3,0,2
+6/17/2003,Canada,247,32,171
+6/17/2003,China,5326,346,4725
+6/17/2003,"Hong Kong SAR, China",1755,295,1387
+6/17/2003,"Macao SAR, China",1,0,1
+6/17/2003,"Taiwan, China",697,83,460
+6/17/2003,Colombia,1,0,1
+6/17/2003,Finland,1,0,1
+6/17/2003,France,7,0,6
+6/17/2003,Germany,10,0,9
+6/17/2003,India,3,0,3
+6/17/2003,Indonesia,2,0,2
+6/17/2003,Italy,9,0,9
+6/17/2003,Kuwait,1,0,1
+6/17/2003,Malaysia,5,2,3
+6/17/2003,Mongolia,9,0,9
+6/17/2003,New Zealand,1,0,1
+6/17/2003,Philippines,14,2,12
+6/17/2003,Republic of Ireland,1,0,1
+6/17/2003,Republic of Korea,3,0,3
+6/17/2003,Romania,1,0,1
+6/17/2003,Russian Federation,1,0,0
+6/17/2003,Singapore,206,31,169
+6/17/2003,South Africa,1,1,0
+6/17/2003,Spain,1,0,1
+6/17/2003,Sweden,3,0,3
+6/17/2003,Switzerland,1,0,1
+6/17/2003,Thailand,9,2,6
+6/17/2003,United Kingdom,4,0,4
+6/17/2003,United States,73,0,36
+6/17/2003,Viet Nam,63,5,58
+6/18/2003,Brazil,3,0,2
+6/18/2003,Canada,246,33,176
+6/18/2003,China,5326,347,4762
+6/18/2003,"Hong Kong SAR, China",1755,295,1393
+6/18/2003,"Macao SAR, China",1,0,1
+6/18/2003,"Taiwan, China",697,83,469
+6/18/2003,Colombia,1,0,1
+6/18/2003,Finland,1,0,1
+6/18/2003,France,7,0,6
+6/18/2003,Germany,10,0,9
+6/18/2003,India,3,0,3
+6/18/2003,Indonesia,2,0,2
+6/18/2003,Italy,9,0,9
+6/18/2003,Kuwait,1,0,1
+6/18/2003,Malaysia,5,2,3
+6/18/2003,Mongolia,9,0,9
+6/18/2003,New Zealand,1,0,1
+6/18/2003,Philippines,14,2,12
+6/18/2003,Republic of Ireland,1,0,1
+6/18/2003,Republic of Korea,3,0,3
+6/18/2003,Romania,1,0,1
+6/18/2003,Russian Federation,1,0,0
+6/18/2003,Singapore,206,31,169
+6/18/2003,South Africa,1,1,0
+6/18/2003,Spain,1,0,1
+6/18/2003,Sweden,3,0,3
+6/18/2003,Switzerland,1,0,1
+6/18/2003,Thailand,9,2,6
+6/18/2003,United Kingdom,4,0,4
+6/18/2003,United States,75,0,36
+6/18/2003,Viet Nam,63,5,58
+6/19/2003,Brazil,3,0,2
+6/19/2003,Canada,245,34,175
+6/19/2003,China,5326,347,4786
+6/19/2003,"Hong Kong SAR, China",1755,296,1396
+6/19/2003,"Macao SAR, China",1,0,1
+6/19/2003,"Taiwan, China",695,84,472
+6/19/2003,Colombia,1,0,1
+6/19/2003,Finland,1,0,1
+6/19/2003,France,7,0,6
+6/19/2003,Germany,10,0,9
+6/19/2003,India,3,0,3
+6/19/2003,Indonesia,2,0,2
+6/19/2003,Italy,9,0,9
+6/19/2003,Kuwait,1,0,1
+6/19/2003,Malaysia,5,2,3
+6/19/2003,Mongolia,9,0,9
+6/19/2003,New Zealand,1,0,1
+6/19/2003,Philippines,14,2,12
+6/19/2003,Republic of Ireland,1,0,1
+6/19/2003,Republic of Korea,3,0,3
+6/19/2003,Romania,1,0,1
+6/19/2003,Russian Federation,1,0,0
+6/19/2003,Singapore,206,31,170
+6/19/2003,South Africa,1,1,0
+6/19/2003,Spain,1,0,1
+6/19/2003,Sweden,3,0,3
+6/19/2003,Switzerland,1,0,1
+6/19/2003,Thailand,9,2,6
+6/19/2003,United Kingdom,4,0,4
+6/19/2003,United States,75,0,36
+6/19/2003,Viet Nam,63,5,58
+6/20/2003,Brazil,3,0,2
+6/20/2003,Canada,245,34,180
+6/20/2003,China,5326,347,4806
+6/20/2003,"Hong Kong SAR, China",1755,296,1403
+6/20/2003,"Macao SAR, China",1,0,1
+6/20/2003,"Taiwan, China",695,84,480
+6/20/2003,Colombia,1,0,1
+6/20/2003,Finland,1,0,1
+6/20/2003,France,7,0,6
+6/20/2003,Germany,10,0,9
+6/20/2003,India,3,0,3
+6/20/2003,Indonesia,2,0,2
+6/20/2003,Italy,9,0,9
+6/20/2003,Kuwait,1,0,1
+6/20/2003,Malaysia,5,2,3
+6/20/2003,Mongolia,9,0,9
+6/20/2003,New Zealand,1,0,1
+6/20/2003,Philippines,14,2,12
+6/20/2003,Republic of Ireland,1,0,1
+6/20/2003,Republic of Korea,3,0,3
+6/20/2003,Romania,1,0,1
+6/20/2003,Russian Federation,1,0,0
+6/20/2003,Singapore,206,31,170
+6/20/2003,South Africa,1,1,0
+6/20/2003,Spain,1,0,1
+6/20/2003,Sweden,3,0,3
+6/20/2003,Switzerland,1,0,1
+6/20/2003,Thailand,9,2,6
+6/20/2003,United Kingdom,4,0,4
+6/20/2003,United States,74,0,36
+6/20/2003,Viet Nam,63,5,58
+6/23/2003,Brazil,3,0,2
+6/23/2003,Canada,246,35,182
+6/23/2003,China,5326,347,4895
+6/23/2003,"Hong Kong SAR, China",1755,296,1411
+6/23/2003,"Macao SAR, China",1,0,1
+6/23/2003,"Taiwan, China",692,84,486
+6/23/2003,Colombia,1,0,1
+6/23/2003,Finland,1,0,1
+6/23/2003,France,7,0,6
+6/23/2003,Germany,10,0,9
+6/23/2003,India,3,0,3
+6/23/2003,Indonesia,2,0,2
+6/23/2003,Italy,9,0,9
+6/23/2003,Kuwait,1,0,1
+6/23/2003,Malaysia,5,2,3
+6/23/2003,Mongolia,9,0,9
+6/23/2003,New Zealand,1,0,1
+6/23/2003,Philippines,14,2,12
+6/23/2003,Republic of Ireland,1,0,1
+6/23/2003,Republic of Korea,3,0,3
+6/23/2003,Romania,1,0,1
+6/23/2003,Russian Federation,1,0,0
+6/23/2003,Singapore,206,31,170
+6/23/2003,South Africa,1,1,0
+6/23/2003,Spain,1,0,1
+6/23/2003,Sweden,3,0,3
+6/23/2003,Switzerland,1,0,1
+6/23/2003,Thailand,9,2,7
+6/23/2003,United Kingdom,4,0,4
+6/23/2003,United States,74,0,36
+6/23/2003,Viet Nam,63,5,58
+6/24/2003,Brazil,3,0,2
+6/24/2003,Canada,249,37,188
+6/24/2003,China,5326,347,4901
+6/24/2003,"Hong Kong SAR, China",1755,296,1417
+6/24/2003,"Macao SAR, China",1,0,1
+6/24/2003,"Taiwan, China",687,84,492
+6/24/2003,Colombia,1,0,1
+6/24/2003,Finland,1,0,1
+6/24/2003,France,7,0,6
+6/24/2003,Germany,10,0,9
+6/24/2003,India,3,0,3
+6/24/2003,Indonesia,2,0,2
+6/24/2003,Italy,9,0,9
+6/24/2003,Kuwait,1,0,1
+6/24/2003,Malaysia,5,2,3
+6/24/2003,Mongolia,9,0,9
+6/24/2003,New Zealand,1,0,1
+6/24/2003,Philippines,14,2,12
+6/24/2003,Republic of Ireland,1,0,1
+6/24/2003,Republic of Korea,3,0,3
+6/24/2003,Romania,1,0,1
+6/24/2003,Russian Federation,1,0,0
+6/24/2003,Singapore,206,31,170
+6/24/2003,South Africa,1,1,0
+6/24/2003,Spain,1,0,1
+6/24/2003,Sweden,3,0,3
+6/24/2003,Switzerland,1,0,1
+6/24/2003,Thailand,9,2,7
+6/24/2003,United Kingdom,4,0,4
+6/24/2003,United States,75,0,36
+6/24/2003,Viet Nam,63,5,58
+6/25/2003,Brazil,3,0,2
+6/25/2003,Canada,250,37,188
+6/25/2003,China,5327,348,4916
+6/25/2003,"Hong Kong SAR, China",1755,296,1419
+6/25/2003,"Macao SAR, China",1,0,1
+6/25/2003,"Taiwan, China",686,84,492
+6/25/2003,Colombia,1,0,1
+6/25/2003,Finland,1,0,1
+6/25/2003,France,7,0,6
+6/25/2003,Germany,10,0,9
+6/25/2003,India,3,0,3
+6/25/2003,Indonesia,2,0,2
+6/25/2003,Italy,9,0,9
+6/25/2003,Japan,1,0,0
+6/25/2003,Kuwait,1,0,1
+6/25/2003,Malaysia,5,2,3
+6/25/2003,Mongolia,9,0,9
+6/25/2003,New Zealand,1,0,1
+6/25/2003,Philippines,14,2,12
+6/25/2003,Republic of Ireland,1,0,1
+6/25/2003,Republic of Korea,3,0,3
+6/25/2003,Romania,1,0,1
+6/25/2003,Russian Federation,1,0,0
+6/25/2003,Singapore,206,31,170
+6/25/2003,South Africa,1,1,0
+6/25/2003,Spain,1,0,1
+6/25/2003,Sweden,3,0,3
+6/25/2003,Switzerland,1,0,1
+6/25/2003,Thailand,9,2,7
+6/25/2003,United Kingdom,4,0,4
+6/25/2003,United States,75,0,36
+6/25/2003,Viet Nam,63,5,58
+6/26/2003,Brazil,3,0,2
+6/26/2003,Canada,251,37,190
+6/26/2003,China,5327,348,4921
+6/26/2003,"Hong Kong SAR, China",1755,296,1419
+6/26/2003,"Macao SAR, China",1,0,1
+6/26/2003,"Taiwan, China",682,84,491
+6/26/2003,Colombia,1,0,1
+6/26/2003,Finland,1,0,1
+6/26/2003,France,7,0,6
+6/26/2003,Germany,10,0,9
+6/26/2003,India,3,0,3
+6/26/2003,Indonesia,2,0,2
+6/26/2003,Italy,9,0,9
+6/26/2003,Japan,1,0,0
+6/26/2003,Kuwait,1,0,1
+6/26/2003,Malaysia,5,2,3
+6/26/2003,Mongolia,9,0,9
+6/26/2003,New Zealand,1,0,1
+6/26/2003,Philippines,14,2,12
+6/26/2003,Republic of Ireland,1,0,1
+6/26/2003,Republic of Korea,3,0,3
+6/26/2003,Romania,1,0,1
+6/26/2003,Russian Federation,1,0,0
+6/26/2003,Singapore,206,32,170
+6/26/2003,South Africa,1,1,0
+6/26/2003,Spain,1,0,1
+6/26/2003,Sweden,3,0,3
+6/26/2003,Switzerland,1,0,1
+6/26/2003,Thailand,9,2,7
+6/26/2003,United Kingdom,4,0,4
+6/26/2003,United States,74,0,36
+6/26/2003,Viet Nam,63,5,58
+6/27/2003,Brazil,3,0,2
+6/27/2003,Canada,251,37,191
+6/27/2003,China,5327,348,4921
+6/27/2003,"Hong Kong SAR, China",1755,297,1422
+6/27/2003,"Macao SAR, China",1,0,1
+6/27/2003,"Taiwan, China",681,84,492
+6/27/2003,Colombia,1,0,1
+6/27/2003,Finland,1,0,1
+6/27/2003,France,7,0,6
+6/27/2003,Germany,10,0,9
+6/27/2003,India,3,0,3
+6/27/2003,Indonesia,2,0,2
+6/27/2003,Italy,5,0,5
+6/27/2003,Kuwait,1,0,1
+6/27/2003,Malaysia,5,2,3
+6/27/2003,Mongolia,9,0,9
+6/27/2003,New Zealand,1,0,1
+6/27/2003,Philippines,14,2,12
+6/27/2003,Republic of Ireland,1,0,1
+6/27/2003,Republic of Korea,3,0,3
+6/27/2003,Romania,1,0,1
+6/27/2003,Russian Federation,1,0,0
+6/27/2003,Singapore,206,32,171
+6/27/2003,South Africa,1,1,0
+6/27/2003,Spain,1,0,1
+6/27/2003,Sweden,3,0,3
+6/27/2003,Switzerland,1,0,1
+6/27/2003,Thailand,9,2,7
+6/27/2003,United Kingdom,4,0,4
+6/27/2003,United States,74,0,64
+6/27/2003,Viet Nam,63,5,58
+6/30/2003,Australia,5,0,5
+6/30/2003,Brazil,3,0,2
+6/30/2003,Canada,252,37,192
+6/30/2003,China,5327,348,4927
+6/30/2003,"Hong Kong SAR, China",1755,298,1429
+6/30/2003,"Macao SAR, China",1,0,1
+6/30/2003,"Taiwan, China",678,84,495
+6/30/2003,Colombia,1,0,1
+6/30/2003,Finland,1,0,1
+6/30/2003,France,7,0,6
+6/30/2003,Germany,10,0,9
+6/30/2003,India,3,0,3
+6/30/2003,Indonesia,2,0,2
+6/30/2003,Italy,5,0,5
+6/30/2003,Kuwait,1,0,1
+6/30/2003,Malaysia,5,2,3
+6/30/2003,Mongolia,9,0,9
+6/30/2003,New Zealand,1,0,1
+6/30/2003,Philippines,14,2,12
+6/30/2003,Republic of Ireland,1,0,1
+6/30/2003,Republic of Korea,3,0,3
+6/30/2003,Romania,1,0,1
+6/30/2003,Russian Federation,1,0,0
+6/30/2003,Singapore,206,32,171
+6/30/2003,South Africa,1,1,0
+6/30/2003,Spain,1,0,1
+6/30/2003,Sweden,3,0,3
+6/30/2003,Switzerland,1,0,1
+6/30/2003,Thailand,9,2,7
+6/30/2003,United Kingdom,4,0,4
+6/30/2003,United States,73,0,63
+6/30/2003,Viet Nam,63,5,58
+7/1/2003,Brazil,1,0,1
+7/1/2003,Canada,252,38,192
+7/1/2003,China,5327,348,4930
+7/1/2003,"Hong Kong SAR, China",1755,298,1429
+7/1/2003,"Macao SAR, China",1,0,1
+7/1/2003,"Taiwan, China",678,84,498
+7/1/2003,Colombia,1,0,1
+7/1/2003,Finland,1,0,1
+7/1/2003,France,7,0,6
+7/1/2003,Germany,10,0,9
+7/1/2003,India,3,0,3
+7/1/2003,Indonesia,2,0,2
+7/1/2003,Italy,5,0,5
+7/1/2003,Kuwait,1,0,1
+7/1/2003,Malaysia,5,2,3
+7/1/2003,Mongolia,9,0,9
+7/1/2003,New Zealand,1,0,1
+7/1/2003,Philippines,14,2,12
+7/1/2003,Republic of Ireland,1,0,1
+7/1/2003,Republic of Korea,3,0,3
+7/1/2003,Romania,1,0,1
+7/1/2003,Russian Federation,1,0,0
+7/1/2003,Singapore,206,32,171
+7/1/2003,South Africa,1,1,0
+7/1/2003,Spain,1,0,1
+7/1/2003,Sweden,3,0,3
+7/1/2003,Switzerland,1,0,1
+7/1/2003,Thailand,9,2,7
+7/1/2003,United Kingdom,4,0,4
+7/1/2003,United States,73,0,63
+7/1/2003,Viet Nam,63,5,58
+7/2/2003,Brazil,1,0,1
+7/2/2003,Canada,252,38,192
+7/2/2003,China,5327,348,4933
+7/2/2003,"Hong Kong SAR, China",1755,298,1429
+7/2/2003,"Macao SAR, China",1,0,1
+7/2/2003,"Taiwan, China",676,84,498
+7/2/2003,Colombia,1,0,1
+7/2/2003,Finland,1,0,1
+7/2/2003,France,7,0,6
+7/2/2003,Germany,10,0,9
+7/2/2003,India,3,0,3
+7/2/2003,Indonesia,2,0,2
+7/2/2003,Italy,4,0,4
+7/2/2003,Kuwait,1,0,1
+7/2/2003,Malaysia,5,2,3
+7/2/2003,Mongolia,9,0,9
+7/2/2003,New Zealand,1,0,1
+7/2/2003,Philippines,14,2,12
+7/2/2003,Republic of Ireland,1,0,1
+7/2/2003,Republic of Korea,3,0,3
+7/2/2003,Romania,1,0,1
+7/2/2003,Russian Federation,1,0,0
+7/2/2003,Singapore,206,32,171
+7/2/2003,South Africa,1,1,0
+7/2/2003,Spain,1,0,1
+7/2/2003,Sweden,3,0,3
+7/2/2003,Switzerland,1,0,1
+7/2/2003,Thailand,9,2,7
+7/2/2003,United Kingdom,4,0,4
+7/2/2003,United States,73,0,63
+7/2/2003,Viet Nam,63,5,58
+7/3/2003,Brazil,1,0,1
+7/3/2003,Canada,251,38,193
+7/3/2003,China,5327,348,4933
+7/3/2003,"Hong Kong SAR, China",1755,298,1429
+7/3/2003,"Macao SAR, China",1,0,1
+7/3/2003,"Taiwan, China",674,84,498
+7/3/2003,Colombia,1,0,1
+7/3/2003,Finland,1,0,1
+7/3/2003,France,7,0,6
+7/3/2003,Germany,10,0,9
+7/3/2003,India,3,0,3
+7/3/2003,Indonesia,2,0,2
+7/3/2003,Italy,4,0,4
+7/3/2003,Kuwait,1,0,1
+7/3/2003,Malaysia,5,2,3
+7/3/2003,Mongolia,9,0,9
+7/3/2003,New Zealand,1,0,1
+7/3/2003,Philippines,14,2,12
+7/3/2003,Republic of Ireland,1,0,1
+7/3/2003,Republic of Korea,3,0,3
+7/3/2003,Romania,1,0,1
+7/3/2003,Russian Federation,1,0,0
+7/3/2003,Singapore,206,32,171
+7/3/2003,South Africa,1,1,0
+7/3/2003,Spain,1,0,1
+7/3/2003,Sweden,3,0,3
+7/3/2003,Switzerland,1,0,1
+7/3/2003,Thailand,9,2,7
+7/3/2003,United Kingdom,4,0,4
+7/3/2003,United States,73,0,65
+7/3/2003,Viet Nam,63,5,58
+7/4/2003,Brazil,1,0,1
+7/4/2003,Canada,251,38,193
+7/4/2003,China,5327,348,4934
+7/4/2003,"Hong Kong SAR, China",1755,298,1430
+7/4/2003,"Macao SAR, China",1,0,1
+7/4/2003,"Taiwan, China",674,84,500
+7/4/2003,Colombia,1,0,1
+7/4/2003,Finland,1,0,1
+7/4/2003,France,7,0,6
+7/4/2003,Germany,10,0,9
+7/4/2003,India,3,0,3
+7/4/2003,Indonesia,2,0,2
+7/4/2003,Italy,4,0,4
+7/4/2003,Kuwait,1,0,1
+7/4/2003,Malaysia,5,2,3
+7/4/2003,Mongolia,9,0,9
+7/4/2003,New Zealand,1,0,1
+7/4/2003,Philippines,14,2,12
+7/4/2003,Republic of Ireland,1,0,1
+7/4/2003,Republic of Korea,3,0,3
+7/4/2003,Romania,1,0,1
+7/4/2003,Russian Federation,1,0,0
+7/4/2003,Singapore,206,32,171
+7/4/2003,South Africa,1,1,0
+7/4/2003,Spain,1,0,1
+7/4/2003,Sweden,3,0,3
+7/4/2003,Switzerland,1,0,1
+7/4/2003,Thailand,9,2,7
+7/4/2003,United Kingdom,4,0,4
+7/4/2003,United States,73,0,65
+7/4/2003,Viet Nam,63,5,58
+7/7/2003,Brazil,1,0,1
+7/7/2003,Canada,251,38,193
+7/7/2003,China,5327,348,4934
+7/7/2003,"Hong Kong SAR, China",1755,298,1430
+7/7/2003,"Macao SAR, China",1,0,1
+7/7/2003,"Taiwan, China",674,84,500
+7/7/2003,Colombia,1,0,1
+7/7/2003,Finland,1,0,1
+7/7/2003,France,7,0,6
+7/7/2003,Germany,10,0,9
+7/7/2003,India,3,0,3
+7/7/2003,Indonesia,2,0,2
+7/7/2003,Italy,4,0,4
+7/7/2003,Kuwait,1,0,1
+7/7/2003,Malaysia,5,2,3
+7/7/2003,Mongolia,9,0,9
+7/7/2003,New Zealand,1,0,1
+7/7/2003,Philippines,14,2,12
+7/7/2003,Republic of Ireland,1,0,1
+7/7/2003,Republic of Korea,3,0,3
+7/7/2003,Romania,1,0,1
+7/7/2003,Russian Federation,1,0,0
+7/7/2003,Singapore,206,32,171
+7/7/2003,South Africa,1,1,0
+7/7/2003,Spain,1,0,1
+7/7/2003,Sweden,3,0,3
+7/7/2003,Switzerland,1,0,1
+7/7/2003,Thailand,9,2,7
+7/7/2003,United Kingdom,4,0,4
+7/7/2003,United States,73,0,65
+7/7/2003,Viet Nam,63,5,58
+7/8/2003,Brazil,1,0,1
+7/8/2003,Canada,250,38,194
+7/8/2003,China,5327,348,4934
+7/8/2003,"Hong Kong SAR, China",1755,298,1430
+7/8/2003,"Macao SAR, China",1,0,1
+7/8/2003,"Taiwan, China",671,84,502
+7/8/2003,Colombia,1,0,1
+7/8/2003,Finland,1,0,1
+7/8/2003,France,7,0,6
+7/8/2003,Germany,10,0,9
+7/8/2003,India,3,0,3
+7/8/2003,Indonesia,2,0,2
+7/8/2003,Italy,4,0,4
+7/8/2003,Kuwait,1,0,1
+7/8/2003,Malaysia,5,2,3
+7/8/2003,Mongolia,9,0,9
+7/8/2003,New Zealand,1,0,1
+7/8/2003,Philippines,14,2,12
+7/8/2003,Republic of Ireland,1,0,1
+7/8/2003,Republic of Korea,3,0,3
+7/8/2003,Romania,1,0,1
+7/8/2003,Russian Federation,1,0,0
+7/8/2003,Singapore,206,32,171
+7/8/2003,South Africa,1,1,0
+7/8/2003,Spain,1,0,1
+7/8/2003,Sweden,3,0,3
+7/8/2003,Switzerland,1,0,1
+7/8/2003,Thailand,9,2,7
+7/8/2003,United Kingdom,4,0,4
+7/8/2003,United States,74,0,64
+7/8/2003,Viet Nam,63,5,58
+7/9/2003,Brazil,1,0,1
+7/9/2003,Canada,249,38,193
+7/9/2003,China,5327,348,4939
+7/9/2003,"Hong Kong SAR, China",1755,298,1431
+7/9/2003,"Macao SAR, China",1,0,1
+7/9/2003,"Taiwan, China",671,84,504
+7/9/2003,Colombia,1,0,1
+7/9/2003,Finland,1,0,1
+7/9/2003,France,7,0,6
+7/9/2003,Germany,10,0,9
+7/9/2003,India,3,0,3
+7/9/2003,Indonesia,2,0,2
+7/9/2003,Italy,4,0,4
+7/9/2003,Kuwait,1,0,1
+7/9/2003,Malaysia,5,2,3
+7/9/2003,Mongolia,9,0,9
+7/9/2003,New Zealand,1,0,1
+7/9/2003,Philippines,14,2,12
+7/9/2003,Republic of Ireland,1,0,1
+7/9/2003,Republic of Korea,3,0,3
+7/9/2003,Romania,1,0,1
+7/9/2003,Russian Federation,1,0,0
+7/9/2003,Singapore,206,32,171
+7/9/2003,South Africa,1,1,0
+7/9/2003,Spain,1,0,1
+7/9/2003,Sweden,3,0,3
+7/9/2003,Switzerland,1,0,1
+7/9/2003,Thailand,9,2,7
+7/9/2003,United Kingdom,4,0,4
+7/9/2003,United States,75,0,67
+7/9/2003,Viet Nam,63,5,58
+7/10/2003,Brazil,1,0,1
+7/10/2003,Canada,250,38,194
+7/10/2003,China,5327,348,4941
+7/10/2003,"Hong Kong SAR, China",1755,298,1431
+7/10/2003,"Macao SAR, China",1,0,1
+7/10/2003,"Taiwan, China",671,84,506
+7/10/2003,Colombia,1,0,1
+7/10/2003,Finland,1,0,1
+7/10/2003,France,7,0,6
+7/10/2003,Germany,10,0,9
+7/10/2003,India,3,0,3
+7/10/2003,Indonesia,2,0,2
+7/10/2003,Italy,4,0,4
+7/10/2003,Kuwait,1,0,1
+7/10/2003,Malaysia,5,2,3
+7/10/2003,Mongolia,9,0,9
+7/10/2003,New Zealand,1,0,1
+7/10/2003,Philippines,14,2,12
+7/10/2003,Republic of Ireland,1,0,1
+7/10/2003,Republic of Korea,3,0,3
+7/10/2003,Romania,1,0,1
+7/10/2003,Russian Federation,1,0,0
+7/10/2003,Singapore,206,32,172
+7/10/2003,South Africa,1,1,0
+7/10/2003,Spain,1,0,1
+7/10/2003,Sweden,3,0,3
+7/10/2003,Switzerland,1,0,1
+7/10/2003,Thailand,9,2,7
+7/10/2003,United Kingdom,4,0,4
+7/10/2003,United States,75,0,67
+7/10/2003,Viet Nam,63,5,58
+7/11/2003,Brazil,1,0,1
+7/11/2003,Canada,250,38,194
+7/11/2003,China,5327,348,4941
+7/11/2003,"Hong Kong SAR, China",1755,298,1433
+7/11/2003,"Macao SAR, China",1,0,1
+7/11/2003,"Taiwan, China",671,84,507
+7/11/2003,Colombia,1,0,1
+7/11/2003,Finland,1,0,1
+7/11/2003,France,7,1,6
+7/11/2003,Germany,10,0,9
+7/11/2003,India,3,0,3
+7/11/2003,Indonesia,2,0,2
+7/11/2003,Italy,4,0,4
+7/11/2003,Kuwait,1,0,1
+7/11/2003,Malaysia,5,2,3
+7/11/2003,Mongolia,9,0,9
+7/11/2003,New Zealand,1,0,1
+7/11/2003,Philippines,14,2,12
+7/11/2003,Republic of Ireland,1,0,1
+7/11/2003,Republic of Korea,3,0,3
+7/11/2003,Romania,1,0,1
+7/11/2003,Russian Federation,1,0,0
+7/11/2003,Singapore,206,32,172
+7/11/2003,South Africa,1,1,0
+7/11/2003,Spain,1,0,1
+7/11/2003,Sweden,3,0,3
+7/11/2003,Switzerland,1,0,1
+7/11/2003,Thailand,9,2,7
+7/11/2003,United Kingdom,4,0,4
+7/11/2003,United States,75,0,67
+7/11/2003,Viet Nam,63,5,58
